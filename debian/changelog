@@ -1,5 +1,11 @@
 deepin-music (7.0.32) unstable; urgency=medium
 
+  * update version to 7.0.33. 
+
+ -- Tian ShiLin <tianshilin@uniontech.com>  Fri, 27 Jun 2025 17:29:37 +0800
+
+deepin-music (7.0.32) unstable; urgency=medium
+
   * fix: Update music section headers in translation files
 
  -- dengzhongyuan <dengzhongyuan@uniontech.com>  Tue, 24 Jun 2025 17:29:20 +0800
