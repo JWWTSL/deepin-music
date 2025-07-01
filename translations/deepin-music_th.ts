@@ -4,887 +4,732 @@
 <context>
     <name>AlbumDefaultPage</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumDefaultPage.qml" line="35"/>
         <source>Add Songs</source>
-        <translation>เพิ่มเพลง</translation>
+        <translation type="vanished">เพิ่มเพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumDefaultPage.qml" line="43"/>
         <source>Open Folders</source>
-        <translation>เปิดโฟลเดอร์</translation>
+        <translation type="vanished">เปิดโฟลเดอร์</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumDefaultPage.qml" line="59"/>
         <source>Drag music files here or</source>
-        <translation>ลากไฟล์เพลงมาที่นี่ หรือ</translation>
+        <translation type="vanished">ลากไฟล์เพลงมาที่นี่ หรือ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumDefaultPage.qml" line="63"/>
         <source> scan the Music directory</source>
-        <translation>สแกนไดเรกทอรีเพลง</translation>
+        <translation type="vanished">สแกนไดเรกทอรีเพลง</translation>
     </message>
 </context>
 <context>
     <name>AlbumGridDelegate</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumGridDelegate.qml" line="116"/>
         <source>1 song</source>
-        <translation>เพลง 1 เพลง</translation>
+        <translation type="vanished">เพลง 1 เพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumGridDelegate.qml" line="116"/>
         <source>%1 songs</source>
-        <translation>เพลง %1 เพลง</translation>
+        <translation type="vanished">เพลง %1 เพลง</translation>
     </message>
 </context>
 <context>
     <name>AlbumListDelegate</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListDelegate.qml" line="107"/>
         <source>%1</source>
-        <translation>%1</translation>
+        <translation type="vanished">%1</translation>
     </message>
 </context>
 <context>
     <name>AlbumListView</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListView.qml" line="33"/>
         <source>Album</source>
-        <translation>อัลบั้ม</translation>
+        <translation type="vanished">อัลบั้ม</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListView.qml" line="38"/>
         <source>Artist</source>
-        <translation>ศิลปิน</translation>
+        <translation type="vanished">ศิลปิน</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListView.qml" line="43"/>
         <source>Tracks</source>
-        <translation>เพลง</translation>
+        <translation type="vanished">เพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListView.qml" line="48"/>
         <source>Date added</source>
-        <translation>วันที่เพิ่ม</translation>
+        <translation type="vanished">วันที่เพิ่ม</translation>
     </message>
 </context>
 <context>
     <name>AlbumMoreMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/AlbumMoreMenu.qml" line="20"/>
         <source>View details</source>
-        <translation>ดูรายละเอียด</translation>
+        <translation type="vanished">ดูรายละเอียด</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/AlbumMoreMenu.qml" line="28"/>
         <source>Play all</source>
-        <translation>เล่นทั้งหมด</translation>
+        <translation type="vanished">เล่นทั้งหมด</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/AlbumMoreMenu.qml" line="37"/>
         <source>Add to</source>
-        <translation>เพิ่มไปยัง</translation>
+        <translation type="vanished">เพิ่มไปยัง</translation>
     </message>
 </context>
 <context>
     <name>AlbumSublist</name>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublist.qml" line="36"/>
         <source>Title</source>
-        <translation>ชื่อเพลง</translation>
+        <translation type="vanished">ชื่อเพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublist.qml" line="41"/>
         <source>Artist</source>
-        <translation>ศิลปิน</translation>
+        <translation type="vanished">ศิลปิน</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublist.qml" line="46"/>
         <source>Duration</source>
-        <translation>ความยาว</translation>
+        <translation type="vanished">ความยาว</translation>
     </message>
 </context>
 <context>
     <name>AlbumSublistDelegate</name>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublistDelegate.qml" line="147"/>
         <source>My Favorites</source>
-        <translation>รายการของฉัน</translation>
+        <translation type="vanished">รายการของฉัน</translation>
     </message>
 </context>
 <context>
     <name>AlbumSublistView</name>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublistView.qml" line="55"/>
         <source>Title</source>
-        <translation>ชื่อเพลง</translation>
+        <translation type="vanished">ชื่อเพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublistView.qml" line="60"/>
         <source>Artist</source>
-        <translation>ศิลปิน</translation>
+        <translation type="vanished">ศิลปิน</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublistView.qml" line="66"/>
         <source>Duration</source>
-        <translation>ความยาว</translation>
+        <translation type="vanished">ความยาว</translation>
     </message>
 </context>
 <context>
     <name>AlbumView</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumView.qml" line="54"/>
         <source>Albums</source>
-        <translation>อัลบั้ม</translation>
+        <translation type="vanished">อัลบั้ม</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumView.qml" line="55"/>
         <source>%1 albums - %2 songs</source>
-        <translation>%1 อัลบั้ม - %2 เพลง</translation>
+        <translation type="vanished">%1 อัลบั้ม - %2 เพลง</translation>
     </message>
 </context>
 <context>
     <name>AllMusicDefaultPage</name>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="42"/>
         <source>Add Songs</source>
-        <translation>เพิ่มเพลง</translation>
+        <translation type="vanished">เพิ่มเพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="50"/>
         <source>Open Folders</source>
-        <translation>เปิดโฟลเดอร์</translation>
+        <translation type="vanished">เปิดโฟลเดอร์</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="65"/>
         <source>Drag music files here or</source>
-        <translation>ลากไฟล์เพลงมาที่นี่ หรือ</translation>
+        <translation type="vanished">ลากไฟล์เพลงมาที่นี่ หรือ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="99"/>
         <source>Your favorite songs will be displayed here</source>
-        <translation>เพลงที่คุณชอบจะแสดงที่นี่</translation>
+        <translation type="vanished">เพลงที่คุณชอบจะแสดงที่นี่</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="111"/>
         <source>Click “</source>
-        <translation>คลิก “</translation>
+        <translation type="vanished">คลิก “</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="122"/>
         <source>” to add a song to My Favorites</source>
-        <translation>” เพื่อเพิ่มเพลงไปยังรายการของฉัน</translation>
+        <translation type="vanished">” เพื่อเพิ่มเพลงไปยังรายการของฉัน</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="157"/>
         <source>No songs yet. Click “</source>
-        <translation>ยังไม่มีเพลง คลิก “</translation>
+        <translation type="vanished">ยังไม่มีเพลง คลิก “</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="168"/>
         <source>” to add songs to the playlist</source>
-        <translation>เพื่อเพิ่มเพลงลงในรายการ</translation>
+        <translation type="vanished">เพื่อเพิ่มเพลงลงในรายการ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="69"/>
         <source> scan the Music directory</source>
-        <translation>สแกนไดเรกทอรีเพลง</translation>
+        <translation type="vanished">สแกนไดเรกทอรีเพลง</translation>
     </message>
 </context>
 <context>
     <name>AllMusicList</name>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicList.qml" line="17"/>
         <source>All Songs</source>
-        <translation>เพลงทั้งหมด</translation>
+        <translation type="vanished">เพลงทั้งหมด</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicList.qml" line="30"/>
         <source>1 song</source>
-        <translation>เพลง 1 เพลง</translation>
+        <translation type="vanished">เพลง 1 เพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicList.qml" line="30"/>
         <source>%1 songs</source>
-        <translation>%1 เพลง</translation>
+        <translation type="vanished">%1 เพลง</translation>
     </message>
 </context>
 <context>
     <name>AllMusicListDelegate</name>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListDelegate.qml" line="212"/>
         <source>My Favorites</source>
-        <translation>รายการที่ฉันชอบ</translation>
+        <translation type="vanished">รายการที่ฉันชอบ</translation>
     </message>
 </context>
 <context>
     <name>AllMusicListView</name>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListView.qml" line="38"/>
         <source>Title</source>
-        <translation>ชื่อเพลง</translation>
+        <translation type="vanished">ชื่อเพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListView.qml" line="44"/>
         <source>Artist</source>
-        <translation>ศิลปิน</translation>
+        <translation type="vanished">ศิลปิน</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListView.qml" line="49"/>
         <source>Album</source>
-        <translation>อัลบั้ม</translation>
+        <translation type="vanished">อัลบั้ม</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListView.qml" line="54"/>
         <source>Duration</source>
-        <translation>ความยาว</translation>
+        <translation type="vanished">ความยาว</translation>
     </message>
 </context>
 <context>
     <name>ArtistDefaultPage</name>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistDefaultPage.qml" line="36"/>
         <source>Add Songs</source>
-        <translation>เพิ่มเพลง</translation>
+        <translation type="vanished">เพิ่มเพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistDefaultPage.qml" line="44"/>
         <source>Open Folders</source>
-        <translation>เปิดโฟลเดอร์</translation>
+        <translation type="vanished">เปิดโฟลเดอร์</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistDefaultPage.qml" line="60"/>
         <source>Drag music files here or</source>
-        <translation>ลากไฟล์เพลงมาที่นี่ หรือ</translation>
+        <translation type="vanished">ลากไฟล์เพลงมาที่นี่ หรือ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistDefaultPage.qml" line="64"/>
         <source> scan the Music directory</source>
-        <translation>สแกนไดเรกทอรีเพลง</translation>
+        <translation type="vanished">สแกนไดเรกทอรีเพลง</translation>
     </message>
 </context>
 <context>
     <name>ArtistGridDelegate</name>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistGridDelegate.qml" line="149"/>
         <source>1 song</source>
-        <translation>เพลง 1 เพลง</translation>
+        <translation type="vanished">เพลง 1 เพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistGridDelegate.qml" line="149"/>
         <source>%1 songs</source>
-        <translation>%1 เพลง</translation>
+        <translation type="vanished">%1 เพลง</translation>
     </message>
 </context>
 <context>
     <name>ArtistMoreMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ArtistMoreMenu.qml" line="18"/>
         <source>View details</source>
-        <translation>ดูรายละเอียด</translation>
+        <translation type="vanished">ดูรายละเอียด</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ArtistMoreMenu.qml" line="26"/>
         <source>Play all</source>
-        <translation>เล่นทั้งหมด</translation>
+        <translation type="vanished">เล่นทั้งหมด</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ArtistMoreMenu.qml" line="35"/>
         <source>Add to</source>
-        <translation>เพิ่มไปยัง</translation>
+        <translation type="vanished">เพิ่มไปยัง</translation>
     </message>
 </context>
 <context>
     <name>ArtistSublistDelegate</name>
     <message>
-        <location filename="../src/music-player/musicsublist/ArtistSublistDelegate.qml" line="102"/>
         <source>My Favorites</source>
-        <translation>รายการที่ฉันชอบ</translation>
+        <translation type="vanished">รายการที่ฉันชอบ</translation>
     </message>
 </context>
 <context>
     <name>ArtistSublistView</name>
     <message>
-        <location filename="../src/music-player/musicsublist/ArtistSublistView.qml" line="59"/>
         <source>Title</source>
-        <translation>ชื่อเพลง</translation>
+        <translation type="vanished">ชื่อเพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/ArtistSublistView.qml" line="65"/>
         <source>Album</source>
-        <translation>อัลบั้ม</translation>
+        <translation type="vanished">อัลบั้ม</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/ArtistSublistView.qml" line="70"/>
         <source>Duration</source>
-        <translation>ความยาว</translation>
+        <translation type="vanished">ความยาว</translation>
     </message>
 </context>
 <context>
     <name>ArtistView</name>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistView.qml" line="54"/>
         <source>Artists</source>
-        <translation>ศิลปิน</translation>
+        <translation type="vanished">ศิลปิน</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistView.qml" line="55"/>
         <source>%1 artists - %2 songs</source>
-        <translation>%1 ศิลปิน - %2 เพลง</translation>
+        <translation type="vanished">%1 ศิลปิน - %2 เพลง</translation>
     </message>
 </context>
 <context>
     <name>CDRemovedDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/CDRemovedDialog.qml" line="32"/>
         <source>The CD has been removed</source>
-        <translation>แผ่นดิสก์ได้ถูกถอดออกแล้ว</translation>
+        <translation type="vanished">แผ่นดิสก์ได้ถูกถอดออกแล้ว</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CDRemovedDialog.qml" line="36"/>
         <source>Cancel</source>
-        <translation>ยกเลิก</translation>
+        <translation type="vanished">ยกเลิก</translation>
     </message>
 </context>
 <context>
     <name>CloseConfirmDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="36"/>
         <source>Please choose your action</source>
-        <translation>กรุณาเลือกการกระทำของคุณ</translation>
+        <translation type="vanished">กรุณาเลือกการกระทำของคุณ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="50"/>
         <source>Minimize to system tray</source>
-        <translation>ลดขนาดลงสู่ระบบ tray</translation>
+        <translation type="vanished">ลดขนาดลงสู่ระบบ tray</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="62"/>
         <source>Exit</source>
-        <translation>ออก</translation>
+        <translation type="vanished">ออก</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="73"/>
         <source>Do not ask again</source>
-        <translation>อย่าถามซ้ำอีก</translation>
+        <translation type="vanished">อย่าถามซ้ำอีก</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="90"/>
         <source>Cancel</source>
-        <translation>ยกเลิก</translation>
+        <translation type="vanished">ยกเลิก</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="98"/>
         <source>Confirm</source>
-        <translation>ยืนยัน</translation>
+        <translation type="vanished">ยืนยัน</translation>
     </message>
 </context>
 <context>
     <name>CurrentPlayList</name>
     <message>
-        <location filename="../src/music-player/playlist/CurrentPlayList.qml" line="97"/>
         <source>Play queue</source>
-        <translation>คิวเพลง</translation>
+        <translation type="vanished">คิวเพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/playlist/CurrentPlayList.qml" line="114"/>
         <source>1 song</source>
-        <translation>เพลง 1 เพลง</translation>
+        <translation type="vanished">เพลง 1 เพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/playlist/CurrentPlayList.qml" line="114"/>
         <source>%1 songs</source>
-        <translation>เพลง %1 เพลง</translation>
+        <translation type="vanished">เพลง %1 เพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/playlist/CurrentPlayList.qml" line="128"/>
         <source>Empty</source>
-        <translation>ว่างเปล่า</translation>
+        <translation type="vanished">ว่างเปล่า</translation>
     </message>
 </context>
 <context>
     <name>CurrentPlayListDelegate</name>
     <message>
-        <location filename="../src/music-player/playlist/CurrentPlayListDelegate.qml" line="123"/>
         <source>My Favorites</source>
-        <translation>รายการของฉัน</translation>
+        <translation type="vanished">รายการของฉัน</translation>
     </message>
 </context>
 <context>
     <name>CustomPlaylistModel</name>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/CustomPlaylistModel.qml" line="23"/>
         <source>My Favorites</source>
-        <translation>รายการของฉัน</translation>
+        <translation type="vanished">รายการของฉัน</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/CustomPlaylistModel.qml" line="80"/>
         <source>CD playlist</source>
-        <translation>รายการเพลง CD</translation>
+        <translation type="vanished">รายการเพลง CD</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/CustomPlaylistModel.qml" line="86"/>
         <source>CD</source>
-        <translation>CD</translation>
+        <translation type="vanished">CD</translation>
     </message>
 </context>
 <context>
     <name>DeleteLocalDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="34"/>
         <source>Are you sure you want to delete %1?</source>
-        <translation>คุณแน่ใจหรือไม่ว่าต้องการลบ %1?</translation>
+        <translation type="vanished">คุณแน่ใจหรือไม่ว่าต้องการลบ %1?</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="36"/>
         <source>Are you sure you want to delete the selected %1 songs?</source>
-        <translation>คุณแน่ใจหรือไม่ว่าต้องการลบเพลงที่เลือกไว้ %1 เพลง?</translation>
+        <translation type="vanished">คุณแน่ใจหรือไม่ว่าต้องการลบเพลงที่เลือกไว้ %1 เพลง?</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="45"/>
         <source>The song files contained will also be deleted</source>
-        <translation>ไฟล์เพลงที่อยู่ด้านในจะถูกลบไปด้วย</translation>
+        <translation type="vanished">ไฟล์เพลงที่อยู่ด้านในจะถูกลบไปด้วย</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="53"/>
         <source>Delete</source>
-        <translation>ลบ</translation>
+        <translation type="vanished">ลบ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="65"/>
         <source>Cancel</source>
-        <translation>ยกเลิก</translation>
+        <translation type="vanished">ยกเลิก</translation>
     </message>
 </context>
 <context>
     <name>DeleteSonglistDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="41"/>
         <source>Are you sure you want to remove %1?</source>
-        <translation>คุณแน่ใจหรือไม่ว่าต้องการลบ %1?</translation>
+        <translation type="vanished">คุณแน่ใจหรือไม่ว่าต้องการลบ %1?</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="43"/>
         <source>Are you sure you want to remove the selected %1 songs?</source>
-        <translation>คุณแน่ใจหรือไม่ว่าต้องการลบเพลงที่เลือกไว้ %1 เพลง?</translation>
+        <translation type="vanished">คุณแน่ใจหรือไม่ว่าต้องการลบเพลงที่เลือกไว้ %1 เพลง?</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="45"/>
         <source>Are you sure you want to delete this playlist?</source>
-        <translation>คุณแน่ใจหรือไม่ว่าต้องการลบรายการเพลงนี้?</translation>
+        <translation type="vanished">คุณแน่ใจหรือไม่ว่าต้องการลบรายการเพลงนี้?</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="55"/>
         <source>Remove</source>
-        <translation>ลบ</translation>
+        <translation type="vanished">ลบ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="55"/>
         <source>Delete</source>
-        <translation>ลบ</translation>
+        <translation type="vanished">ลบ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="70"/>
         <source>Cancel</source>
-        <translation>ยกเลิก</translation>
+        <translation type="vanished">ยกเลิก</translation>
     </message>
 </context>
 <context>
     <name>EqualizerDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="14"/>
         <source>Custom</source>
-        <translation>กำหนดเอง</translation>
+        <translation type="vanished">กำหนดเอง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="15"/>
         <source>Monophony</source>
-        <translation>เสียงเดียว</translation>
+        <translation type="vanished">เสียงเดียว</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="16"/>
         <source>Classical</source>
-        <translation>คลาสสิก</translation>
+        <translation type="vanished">คลาสสิก</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="17"/>
         <source>Club</source>
-        <translation>คลับ</translation>
+        <translation type="vanished">คลับ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="18"/>
         <source>Dance</source>
-        <translation>แดนซ์</translation>
+        <translation type="vanished">แดนซ์</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="19"/>
         <source>Full Bass</source>
-        <translation>เน้นเบสสูงสุด</translation>
+        <translation type="vanished">เน้นเบสสูงสุด</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="20"/>
         <source>Full Bass and Treble</source>
-        <translation>เน้นเบสและโทเบลสูงสุด</translation>
+        <translation type="vanished">เน้นเบสและโทเบลสูงสุด</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="21"/>
         <source>Full Treble</source>
-        <translation>เน้นโทเบลสูงสุด</translation>
+        <translation type="vanished">เน้นโทเบลสูงสุด</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="22"/>
         <source>Headphones</source>
-        <translation>หูฟัง</translation>
+        <translation type="vanished">หูฟัง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="23"/>
         <source>Hall</source>
-        <translation>ห้องโถง</translation>
+        <translation type="vanished">ห้องโถง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="24"/>
         <source>Live</source>
-        <translation>ไลฟ์</translation>
+        <translation type="vanished">ไลฟ์</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="25"/>
         <source>Party</source>
-        <translation>ปาร์ตี้</translation>
+        <translation type="vanished">ปาร์ตี้</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="26"/>
         <source>Pop</source>
-        <translation>ป็อป</translation>
+        <translation type="vanished">ป็อป</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="27"/>
         <source>Reggae</source>
-        <translation>เร็กเก้</translation>
+        <translation type="vanished">เร็กเก้</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="28"/>
         <source>Rock</source>
-        <translation>ร็อก</translation>
+        <translation type="vanished">ร็อก</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="29"/>
         <source>Ska</source>
-        <translation>สกา</translation>
+        <translation type="vanished">สกา</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="30"/>
         <source>Soft</source>
-        <translation>ซอฟต์</translation>
+        <translation type="vanished">ซอฟต์</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="31"/>
         <source>Soft Rock</source>
-        <translation>ซอฟต์ร็อก</translation>
+        <translation type="vanished">ซอฟต์ร็อก</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="32"/>
         <source>Techno</source>
-        <translation>เทคโน</translation>
+        <translation type="vanished">เทคโน</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="106"/>
         <source>Equalizer</source>
-        <translation>อีควาไลเซอร์</translation>
+        <translation type="vanished">อีควาไลเซอร์</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="182"/>
         <source>Save</source>
-        <translation>บันทึก</translation>
+        <translation type="vanished">บันทึก</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="205"/>
         <source>Reset</source>
-        <translation>รีเซ็ต</translation>
+        <translation type="vanished">รีเซ็ต</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="314"/>
         <source>Preamplifier</source>
-        <translation>พรีแอมปลิฟายเออร์</translation>
+        <translation type="vanished">พรีแอมปลิฟายเออร์</translation>
     </message>
 </context>
 <context>
     <name>FileDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/FileDialog.qml" line="15"/>
         <source>All Music</source>
-        <translation>เพลงทั้งหมด</translation>
+        <translation type="vanished">เพลงทั้งหมด</translation>
     </message>
 </context>
 <context>
     <name>ImportFailedDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/ImportFailedDialog.qml" line="32"/>
         <source>Import failed, no valid music file found</source>
-        <translation>การนำเข้าล้มเหลว ไม่พบไฟล์เพลงที่ถูกต้อง</translation>
+        <translation type="vanished">การนำเข้าล้มเหลว ไม่พบไฟล์เพลงที่ถูกต้อง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/ImportFailedDialog.qml" line="36"/>
         <source>OK</source>
-        <translation>ตกลง</translation>
+        <translation type="vanished">ตกลง</translation>
     </message>
 </context>
 <context>
     <name>ImportMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ImportMenu.qml" line="25"/>
         <source>Play queue</source>
-        <translation>คิวเพลง</translation>
+        <translation type="vanished">คิวเพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ImportMenu.qml" line="40"/>
         <source>My favorites</source>
-        <translation>รายการที่ชอบ</translation>
+        <translation type="vanished">รายการที่ชอบ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ImportMenu.qml" line="49"/>
         <source>Create new playlist</source>
-        <translation>สร้างรายการเพลงใหม่</translation>
+        <translation type="vanished">สร้างรายการเพลงใหม่</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ImportMenu.qml" line="52"/>
         <source>New playlist</source>
-        <translation>รายการเพลงใหม่</translation>
+        <translation type="vanished">รายการเพลงใหม่</translation>
     </message>
 </context>
 <context>
     <name>LyricPage</name>
     <message>
-        <location filename="../src/music-player/lyric/LyricPage.qml" line="133"/>
         <source>Artist</source>
-        <translation>ศิลปิน</translation>
+        <translation type="vanished">ศิลปิน</translation>
     </message>
     <message>
-        <location filename="../src/music-player/lyric/LyricPage.qml" line="141"/>
         <source>Album</source>
-        <translation>อัลบั้ม</translation>
+        <translation type="vanished">อัลบั้ม</translation>
     </message>
     <message>
-        <location filename="../src/music-player/lyric/LyricPage.qml" line="179"/>
         <source>No lyrics found</source>
-        <translation>ไม่พบเนื้อเพลง</translation>
+        <translation type="vanished">ไม่พบเนื้อเพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/lyric/LyricPage.qml" line="189"/>
         <source>Please put the lyric file (same name as the song) and the song file in the same folder</source>
-        <translation>กรุณาใส่ไฟล์เนื้อเพลง (ชื่อเดียวกับเพลง) และไฟล์เพลงในโฟลเดอร์เดียวกัน</translation>
+        <translation type="vanished">กรุณาใส่ไฟล์เนื้อเพลง (ชื่อเดียวกับเพลง) และไฟล์เพลงในโฟลเดอร์เดียวกัน</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="188"/>
         <source>Music</source>
-        <translation>เพลง</translation>
+        <translation type="vanished">เพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="203"/>
         <source>Play/Pause</source>
-        <translation>เล่น/หยุด</translation>
+        <translation type="vanished">เล่น/หยุด</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="207"/>
         <source>Previous</source>
-        <translation>ก่อนหน้า</translation>
+        <translation type="vanished">ก่อนหน้า</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="218"/>
         <source>Next</source>
-        <translation>ถัดไป</translation>
+        <translation type="vanished">ถัดไป</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="229"/>
         <source>Exit</source>
-        <translation>ออก</translation>
+        <translation type="vanished">ออก</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="343"/>
         <source>Already added to the playlist</source>
-        <translation>เพิ่มลงในรายการเพลงแล้ว</translation>
+        <translation type="vanished">เพิ่มลงในรายการเพลงแล้ว</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="346"/>
         <source>Added to &quot;%1&quot;</source>
-        <translation>เพิ่มลงใน &quot;%1&quot;</translation>
+        <translation type="vanished">เพิ่มลงใน &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="349"/>
         <source>Removed from &quot;My Favorites&quot;</source>
-        <translation>นำออกจากรายการที่ชอบ</translation>
+        <translation type="vanished">นำออกจากรายการที่ชอบ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="352"/>
         <source>A disc is connected</source>
-        <translation>มีดิสก์ที่เชื่อมต่อ</translation>
+        <translation type="vanished">มีดิสก์ที่เชื่อมต่อ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="368"/>
         <source>My Favorites</source>
-        <translation>รายการที่ชอบ</translation>
+        <translation type="vanished">รายการที่ชอบ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="390"/>
         <source>All Songs</source>
-        <translation>เพลงทั้งหมด</translation>
+        <translation type="vanished">เพลงทั้งหมด</translation>
     </message>
 </context>
 <context>
     <name>MulitSelectMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MulitSelectMenu.qml" line="19"/>
         <source>Add to</source>
-        <translation>เพิ่มลงใน</translation>
+        <translation type="vanished">เพิ่มลงใน</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MulitSelectMenu.qml" line="28"/>
         <source>Remove from playlist</source>
-        <translation>นำออกจากรายการเพลง</translation>
+        <translation type="vanished">นำออกจากรายการเพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MulitSelectMenu.qml" line="28"/>
         <source>Remove from play queue</source>
-        <translation>นำออกจากรายการคิวเพลง</translation>
+        <translation type="vanished">นำออกจากรายการคิวเพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MulitSelectMenu.qml" line="35"/>
         <source>Delete from local disk</source>
-        <translation>ลบออกจากฮาร์ดดิสก์ท้องถิ่น</translation>
+        <translation type="vanished">ลบออกจากฮาร์ดดิสก์ท้องถิ่น</translation>
     </message>
 </context>
 <context>
     <name>MusicBaselistview</name>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="36"/>
         <source>Library</source>
-        <translation>ไลบรารี</translation>
+        <translation type="vanished">ไลบรารี</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="40"/>
         <source>Albums</source>
-        <translation>อัลบั้ม</translation>
+        <translation type="vanished">อัลบั้ม</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="41"/>
         <source>Artists</source>
-        <translation>ศิลปิน</translation>
+        <translation type="vanished">ศิลปิน</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="42"/>
         <source>All Songs</source>
-        <translation>เพลงทั้งหมด</translation>
+        <translation type="vanished">เพลงทั้งหมด</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="47"/>
         <source>Playlists</source>
-        <translation>รายการเพลง</translation>
+        <translation type="vanished">รายการเพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="64"/>
         <source>Create playlist</source>
-        <translation>สร้างรายการเพลง</translation>
+        <translation type="vanished">สร้างรายการเพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="66"/>
         <source>New playlist</source>
-        <translation>รายการเพลงใหม่</translation>
+        <translation type="vanished">รายการเพลงใหม่</translation>
     </message>
 </context>
 <context>
     <name>MusicContentWindow</name>
     <message>
-        <location filename="../src/music-player/mainwindow/MusicContentWindow.qml" line="22"/>
         <source>My Favorites</source>
-        <translation>รายการโปรดของฉัน</translation>
+        <translation type="vanished">รายการโปรดของฉัน</translation>
     </message>
 </context>
 <context>
     <name>MusicInfoDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="71"/>
         <source>Title</source>
-        <translation>ชื่อเพลง</translation>
+        <translation type="vanished">ชื่อเพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="80"/>
         <source>Artist</source>
-        <translation>ศิลปิน</translation>
+        <translation type="vanished">ศิลปิน</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="86"/>
         <source>Album</source>
-        <translation>อัลบั้ม</translation>
+        <translation type="vanished">อัลบั้ม</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="95"/>
         <source>Type</source>
-        <translation>ประเภท</translation>
+        <translation type="vanished">ประเภท</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="101"/>
         <source>Size</source>
-        <translation>ขนาด</translation>
+        <translation type="vanished">ขนาด</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="107"/>
         <source>Duration</source>
-        <translation>ความยาว</translation>
+        <translation type="vanished">ความยาว</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="114"/>
         <source>Path</source>
-        <translation>เส้นทาง</translation>
+        <translation type="vanished">เส้นทาง</translation>
     </message>
 </context>
 <context>
     <name>MusicMoreMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="24"/>
         <source>Pause</source>
-        <translation>หยุด</translation>
+        <translation type="vanished">หยุด</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="24"/>
         <source>Play</source>
-        <translation>เล่น</translation>
+        <translation type="vanished">เล่น</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="44"/>
         <source>Add to</source>
-        <translation>เพิ่มไปยัง</translation>
+        <translation type="vanished">เพิ่มไปยัง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="52"/>
         <source>Open in file manager</source>
-        <translation>เปิดในโปรแกรมจัดการไฟล์</translation>
+        <translation type="vanished">เปิดในโปรแกรมจัดการไฟล์</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="62"/>
         <source>Remove from playlist</source>
-        <translation>ลบออกจากรายการเพลง</translation>
+        <translation type="vanished">ลบออกจากรายการเพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="62"/>
         <source>Remove from play queue</source>
-        <translation>ลบออกจากคิวเพลง</translation>
+        <translation type="vanished">ลบออกจากคิวเพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="72"/>
         <source>Delete from local disk</source>
-        <translation>ลบออกจากฮาร์ดดิสก์ท้องถิ่น</translation>
+        <translation type="vanished">ลบออกจากฮาร์ดดิสก์ท้องถิ่น</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="79"/>
         <source>Encoding</source>
-        <translation>การเข้ารหัส</translation>
+        <translation type="vanished">การเข้ารหัส</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="104"/>
         <source>Song info</source>
-        <translation>ข้อมูลเพลง</translation>
+        <translation type="vanished">ข้อมูลเพลง</translation>
     </message>
 </context>
 <context>
@@ -913,160 +758,130 @@
 <context>
     <name>SearchResultDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/SearchResultDialog.qml" line="27"/>
         <source>Songs</source>
-        <translation>เพลง</translation>
+        <translation type="vanished">เพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SearchResultDialog.qml" line="39"/>
         <source>Artists</source>
-        <translation>ศิลปิน</translation>
+        <translation type="vanished">ศิลปิน</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SearchResultDialog.qml" line="50"/>
         <source>Albums</source>
-        <translation>อัลบั้ม</translation>
+        <translation type="vanished">อัลบั้ม</translation>
     </message>
 </context>
 <context>
     <name>SearchResultWindow</name>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="55"/>
         <source>No search results</source>
-        <translation>ไม่มีผลลัพธ์การค้นหา</translation>
+        <translation type="vanished">ไม่มีผลลัพธ์การค้นหา</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="95"/>
         <source>Search Results</source>
-        <translation>ผลการค้นหา</translation>
+        <translation type="vanished">ผลการค้นหา</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="100"/>
         <source>%1 albums - %2 songs</source>
-        <translation>%1 อัลบั้ม - %2 เพลง</translation>
+        <translation type="vanished">%1 อัลบั้ม - %2 เพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="101"/>
         <source>1 album - 1 song</source>
-        <translation>1 อัลบั้ม - 1 เพลง</translation>
+        <translation type="vanished">1 อัลบั้ม - 1 เพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="101"/>
         <source>%1 album - %2 songs</source>
-        <translation>%1 อัลบั้ม - %2 เพลง</translation>
+        <translation type="vanished">%1 อัลบั้ม - %2 เพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="120"/>
         <source>Music</source>
-        <translation>เพลง</translation>
+        <translation type="vanished">เพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="128"/>
         <source>Artist</source>
-        <translation>ศิลปิน</translation>
+        <translation type="vanished">ศิลปิน</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="124"/>
         <source>Album</source>
-        <translation>อัลบั้ม</translation>
+        <translation type="vanished">อัลบั้ม</translation>
     </message>
 </context>
 <context>
     <name>SettingsDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="30"/>
         <source>Basic</source>
-        <translation>พื้นฐาน</translation>
+        <translation type="vanished">พื้นฐาน</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="34"/>
         <source>Play</source>
-        <translation>เล่น</translation>
+        <translation type="vanished">เล่น</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="42"/>
         <source>Autoplay</source>
-        <translation>เล่นอัตโนมัติ</translation>
+        <translation type="vanished">เล่นอัตโนมัติ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="53"/>
         <source>Remember playback position on exit</source>
-        <translation>จดจำตำแหน่งการเล่นเมื่อออก</translation>
+        <translation type="vanished">จดจำตำแหน่งการเล่นเมื่อออก</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="66"/>
         <source>Enable fade in/out</source>
-        <translation>เปิดใช้งานการค่อยๆ เสียงเข้า/ออก</translation>
+        <translation type="vanished">เปิดใช้งานการค่อยๆ เสียงเข้า/ออก</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="78"/>
         <source>Close Main Window</source>
-        <translation>ปิดหน้าต่างหลัก</translation>
+        <translation type="vanished">ปิดหน้าต่างหลัก</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="91"/>
         <source>Minimize to system tray</source>
-        <translation>ซ่อนเข้าสู่ระบบ tray</translation>
+        <translation type="vanished">ซ่อนเข้าสู่ระบบ tray</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="98"/>
         <source>Exit</source>
-        <translation>ออก</translation>
+        <translation type="vanished">ออก</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="105"/>
         <source>Ask me always</source>
-        <translation>ถามฉันเสมอ</translation>
+        <translation type="vanished">ถามฉันเสมอ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="137"/>
         <source>Shortcuts</source>
-        <translation>ทางลัด</translation>
+        <translation type="vanished">ทางลัด</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="158"/>
         <source>Play/Pause</source>
-        <translation>เล่น/หยุด</translation>
+        <translation type="vanished">เล่น/หยุด</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="201"/>
         <source>Previous</source>
-        <translation>ก่อนหน้า</translation>
+        <translation type="vanished">ก่อนหน้า</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="245"/>
         <source>Next</source>
-        <translation>ถัดไป</translation>
+        <translation type="vanished">ถัดไป</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="290"/>
         <source>Volume up</source>
-        <translation>เพิ่มระดับเสียง</translation>
+        <translation type="vanished">เพิ่มระดับเสียง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="335"/>
         <source>Volume down</source>
-        <translation>ลดระดับเสียง</translation>
+        <translation type="vanished">ลดระดับเสียง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="379"/>
         <source>Favorite</source>
-        <translation>รายการโปรด</translation>
+        <translation type="vanished">รายการโปรด</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="501"/>
         <source>Cancel</source>
-        <translation>ยกเลิก</translation>
+        <translation type="vanished">ยกเลิก</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="534"/>
         <source>Replace</source>
-        <translation>เปลี่ยน</translation>
+        <translation type="vanished">เปลี่ยน</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="490"/>
         <source>This shortcut key conflicts with [%1], click Replace to make this shortcut key take effect immediately</source>
-        <translation>&gt;-
+        <translation type="vanished">&gt;-
  คีย์ลัดนี้ขัดแย้งกับ [%1] คลิก Replace เพื่อให้คีย์ลัดนี้มีผลทันที</translation>
     </message>
 </context>
@@ -1171,217 +986,178 @@
 <context>
     <name>Shortcuts</name>
     <message>
-        <location filename="../src/music-player/allItems/Shortcuts.qml" line="51"/>
         <source>New playlist</source>
-        <translation>เพลย์ลิสต์ใหม่</translation>
+        <translation type="vanished">เพลย์ลิสต์ใหม่</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/Shortcuts.qml" line="120"/>
         <source>My Favorites</source>
-        <translation>รายการโปรดของฉัน</translation>
+        <translation type="vanished">รายการโปรดของฉัน</translation>
     </message>
 </context>
 <context>
     <name>SidebarMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/SidebarMenu.qml" line="22"/>
         <source>Play</source>
-        <translation>เล่น</translation>
+        <translation type="vanished">เล่น</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/SidebarMenu.qml" line="29"/>
         <source>Add songs</source>
-        <translation>เพิ่มเพลง</translation>
+        <translation type="vanished">เพิ่มเพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/SidebarMenu.qml" line="38"/>
         <source>Rename</source>
-        <translation>เปลี่ยนชื่อ</translation>
+        <translation type="vanished">เปลี่ยนชื่อ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/SidebarMenu.qml" line="52"/>
         <source>Delete</source>
-        <translation>ลบ</translation>
+        <translation type="vanished">ลบ</translation>
     </message>
 </context>
 <context>
     <name>SortMenu</name>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="29"/>
         <source>CD playlist</source>
-        <translation>เพลย์ลิสต์แผ่นเสียง</translation>
+        <translation type="vanished">เพลย์ลิสต์แผ่นเสียง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="33"/>
         <source>Custom</source>
-        <translation>กำหนดเอง</translation>
+        <translation type="vanished">กำหนดเอง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="34"/>
         <source>Date added</source>
-        <translation>วันที่เพิ่ม</translation>
+        <translation type="vanished">วันที่เพิ่ม</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="37"/>
         <source>Album</source>
-        <translation>อัลบั้ม</translation>
+        <translation type="vanished">อัลบั้ม</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="36"/>
         <source>Artist</source>
-        <translation>ศิลปิน</translation>
+        <translation type="vanished">ศิลปิน</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="35"/>
         <source>Title</source>
-        <translation>ชื่อเพลง</translation>
+        <translation type="vanished">ชื่อเพลง</translation>
     </message>
 </context>
 <context>
     <name>SublistTitleButton</name>
     <message>
-        <location filename="../src/music-player/allItems/SublistTitleButton.qml" line="54"/>
         <source>1 song</source>
-        <translation>เพลง 1 เพลง</translation>
+        <translation type="vanished">เพลง 1 เพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SublistTitleButton.qml" line="54"/>
         <source>%1 songs</source>
-        <translation>&apos;%1 เพลง&apos;</translation>
+        <translation type="vanished">&apos;%1 เพลง&apos;</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SublistTitleButton.qml" line="64"/>
         <source>Play All</source>
-        <translation>เล่นทั้งหมด</translation>
+        <translation type="vanished">เล่นทั้งหมด</translation>
     </message>
 </context>
 <context>
     <name>ToolButtonItem</name>
     <message>
-        <location filename="../src/music-player/allItems/ToolButtonItem.qml" line="59"/>
         <source>Play All</source>
-        <translation>เล่นทั้งหมด</translation>
+        <translation type="vanished">เล่นทั้งหมด</translation>
     </message>
 </context>
 <context>
     <name>Toolbar</name>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="43"/>
         <source>Sequential play</source>
-        <translation>เล่นตามลำดับ</translation>
+        <translation type="vanished">เล่นตามลำดับ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="43"/>
         <source>List loop</source>
-        <translation>วนซ้ำรายการ</translation>
+        <translation type="vanished">วนซ้ำรายการ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="43"/>
         <source>Single loop</source>
-        <translation>วนซ้ำเพลงเดียว</translation>
+        <translation type="vanished">วนซ้ำเพลงเดียว</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="43"/>
         <source>Shuffle</source>
-        <translation>สุ่มเล่น</translation>
+        <translation type="vanished">สุ่มเล่น</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="207"/>
         <source>Unfavorite</source>
-        <translation>ยกเลิกการเพิ่มในรายการโปรด</translation>
+        <translation type="vanished">ยกเลิกการเพิ่มในรายการโปรด</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="207"/>
         <source>Favorite</source>
-        <translation>รายการโปรด</translation>
+        <translation type="vanished">รายการโปรด</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="220"/>
         <source>My Favorites</source>
-        <translation>รายการโปรดของฉัน</translation>
+        <translation type="vanished">รายการโปรดของฉัน</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="238"/>
         <source>Previous</source>
-        <translation>ก่อนหน้า</translation>
+        <translation type="vanished">ก่อนหน้า</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="259"/>
         <source>Play/Pause</source>
-        <translation>เล่น/หยุด</translation>
+        <translation type="vanished">เล่น/หยุด</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="280"/>
         <source>Next</source>
-        <translation>ถัดไป</translation>
+        <translation type="vanished">ถัดไป</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="389"/>
         <source>Lyrics</source>
-        <translation>ข้อความเพลง</translation>
+        <translation type="vanished">ข้อความเพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="438"/>
         <source>Play Queue</source>
-        <translation>คิวเพลง</translation>
+        <translation type="vanished">คิวเพลง</translation>
     </message>
 </context>
 <context>
     <name>WindowTitlebar</name>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="56"/>
         <source>Add playlist</source>
-        <translation>เพิ่มเพลย์ลิสต์</translation>
+        <translation type="vanished">เพิ่มเพลย์ลิสต์</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="58"/>
         <source>New playlist</source>
-        <translation>เพลย์ลิสต์ใหม่</translation>
+        <translation type="vanished">เพลย์ลิสต์ใหม่</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="63"/>
         <source>Add music</source>
-        <translation>เพิ่มเพลง</translation>
+        <translation type="vanished">เพิ่มเพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="71"/>
         <source>Equalizer</source>
-        <translation>อีควอไลเซอร์</translation>
+        <translation type="vanished">อีควอไลเซอร์</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="82"/>
         <source>Settings</source>
-        <translation>การตั้งค่า</translation>
+        <translation type="vanished">การตั้งค่า</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="96"/>
         <source>Music</source>
-        <translation>เพลง</translation>
+        <translation type="vanished">เพลง</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="98"/>
         <source>Music is a local music player with beautiful design and simple functions.</source>
-        <translation>Music เป็นโปรแกรมเล่นเพลงท้องถิ่นที่มีการออกแบบสวยงามและมีฟังก์ชันที่ง่าย</translation>
+        <translation type="vanished">Music เป็นโปรแกรมเล่นเพลงท้องถิ่นที่มีการออกแบบสวยงามและมีฟังก์ชันที่ง่าย</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="99"/>
         <source>Version:</source>
-        <translation>เวอร์ชัน:</translation>
+        <translation type="vanished">เวอร์ชัน:</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="213"/>
         <source>Previous page</source>
-        <translation>หน้าก่อนหน้า</translation>
+        <translation type="vanished">หน้าก่อนหน้า</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="229"/>
         <source>Next page</source>
-        <translation>หน้าถัดไป</translation>
+        <translation type="vanished">หน้าถัดไป</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="239"/>
         <source>Search</source>
-        <translation>ค้นหา</translation>
+        <translation type="vanished">ค้นหา</translation>
     </message>
 </context>
 </TS>

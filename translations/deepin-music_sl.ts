@@ -4,887 +4,732 @@
 <context>
     <name>AlbumDefaultPage</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumDefaultPage.qml" line="35"/>
         <source>Add Songs</source>
-        <translation>Dodaj skladbe</translation>
+        <translation type="vanished">Dodaj skladbe</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumDefaultPage.qml" line="43"/>
         <source>Open Folders</source>
-        <translation>Odpri mape</translation>
+        <translation type="vanished">Odpri mape</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumDefaultPage.qml" line="59"/>
         <source>Drag music files here or</source>
-        <translation>ali povlecite glasbene datoteke sem</translation>
+        <translation type="vanished">ali povlecite glasbene datoteke sem</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumDefaultPage.qml" line="63"/>
         <source> scan the Music directory</source>
-        <translation type="unfinished">preišči mapo z glasbo</translation>
+        <translation type="obsolete">preišči mapo z glasbo</translation>
     </message>
 </context>
 <context>
     <name>AlbumGridDelegate</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumGridDelegate.qml" line="116"/>
         <source>1 song</source>
-        <translation>Ena skladba</translation>
+        <translation type="vanished">Ena skladba</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumGridDelegate.qml" line="116"/>
         <source>%1 songs</source>
-        <translation>Skladb: %1</translation>
+        <translation type="vanished">Skladb: %1</translation>
     </message>
 </context>
 <context>
     <name>AlbumListDelegate</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListDelegate.qml" line="107"/>
         <source>%1</source>
-        <translation>%1</translation>
+        <translation type="vanished">%1</translation>
     </message>
 </context>
 <context>
     <name>AlbumListView</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListView.qml" line="33"/>
         <source>Album</source>
-        <translation>Album</translation>
+        <translation type="vanished">Album</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListView.qml" line="38"/>
         <source>Artist</source>
-        <translation>Izvajalec</translation>
+        <translation type="vanished">Izvajalec</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListView.qml" line="43"/>
         <source>Tracks</source>
-        <translation>Skladbe</translation>
+        <translation type="vanished">Skladbe</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListView.qml" line="48"/>
         <source>Date added</source>
-        <translation>Datum dodajanja</translation>
+        <translation type="vanished">Datum dodajanja</translation>
     </message>
 </context>
 <context>
     <name>AlbumMoreMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/AlbumMoreMenu.qml" line="20"/>
         <source>View details</source>
-        <translation>Prikaži podrobnosti</translation>
+        <translation type="vanished">Prikaži podrobnosti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/AlbumMoreMenu.qml" line="28"/>
         <source>Play all</source>
-        <translation>Predvajaj vse</translation>
+        <translation type="vanished">Predvajaj vse</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/AlbumMoreMenu.qml" line="37"/>
         <source>Add to</source>
-        <translation>Dodaj v</translation>
+        <translation type="vanished">Dodaj v</translation>
     </message>
 </context>
 <context>
     <name>AlbumSublist</name>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublist.qml" line="36"/>
         <source>Title</source>
-        <translation>Naslov</translation>
+        <translation type="vanished">Naslov</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublist.qml" line="41"/>
         <source>Artist</source>
-        <translation>Izvajalec</translation>
+        <translation type="vanished">Izvajalec</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublist.qml" line="46"/>
         <source>Duration</source>
-        <translation>Trajanje</translation>
+        <translation type="vanished">Trajanje</translation>
     </message>
 </context>
 <context>
     <name>AlbumSublistDelegate</name>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublistDelegate.qml" line="147"/>
         <source>My Favorites</source>
-        <translation>Moje prilljubljene</translation>
+        <translation type="vanished">Moje prilljubljene</translation>
     </message>
 </context>
 <context>
     <name>AlbumSublistView</name>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublistView.qml" line="55"/>
         <source>Title</source>
-        <translation>Naslov</translation>
+        <translation type="vanished">Naslov</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublistView.qml" line="60"/>
         <source>Artist</source>
-        <translation>Izvajalec</translation>
+        <translation type="vanished">Izvajalec</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublistView.qml" line="66"/>
         <source>Duration</source>
-        <translation>Trajanje</translation>
+        <translation type="vanished">Trajanje</translation>
     </message>
 </context>
 <context>
     <name>AlbumView</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumView.qml" line="54"/>
         <source>Albums</source>
-        <translation>Albumi</translation>
+        <translation type="vanished">Albumi</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumView.qml" line="55"/>
         <source>%1 albums - %2 songs</source>
-        <translation>Albumov: %1; Skladb: %2</translation>
+        <translation type="vanished">Albumov: %1; Skladb: %2</translation>
     </message>
 </context>
 <context>
     <name>AllMusicDefaultPage</name>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="42"/>
         <source>Add Songs</source>
-        <translation>Dodaj skladbe</translation>
+        <translation type="vanished">Dodaj skladbe</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="50"/>
         <source>Open Folders</source>
-        <translation>Odpri mape</translation>
+        <translation type="vanished">Odpri mape</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="65"/>
         <source>Drag music files here or</source>
-        <translation>Povlecite glasbene datoteke sem</translation>
+        <translation type="vanished">Povlecite glasbene datoteke sem</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="99"/>
         <source>Your favorite songs will be displayed here</source>
-        <translation>Vaše najdraža pesni se prikazuje tukaj</translation>
+        <translation type="vanished">Vaše najdraža pesni se prikazuje tukaj</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="111"/>
         <source>Click “</source>
-        <translation>Kliknite “</translation>
+        <translation type="vanished">Kliknite “</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="122"/>
         <source>” to add a song to My Favorites</source>
-        <translation>” za dodajanje pesmi v Moj Odbir</translation>
+        <translation type="vanished">” za dodajanje pesmi v Moj Odbir</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="157"/>
         <source>No songs yet. Click “</source>
-        <translation>Nobene pesmi še. Kliknite “</translation>
+        <translation type="vanished">Nobene pesmi še. Kliknite “</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="168"/>
         <source>” to add songs to the playlist</source>
-        <translation>” za dodajanje pesmi v predstavitev</translation>
+        <translation type="vanished">” za dodajanje pesmi v predstavitev</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="69"/>
         <source> scan the Music directory</source>
-        <translation>preišči mapo z glasbo</translation>
+        <translation type="vanished">preišči mapo z glasbo</translation>
     </message>
 </context>
 <context>
     <name>AllMusicList</name>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicList.qml" line="17"/>
         <source>All Songs</source>
-        <translation>Vse skladbe</translation>
+        <translation type="vanished">Vse skladbe</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicList.qml" line="30"/>
         <source>1 song</source>
-        <translation>Ena skladba</translation>
+        <translation type="vanished">Ena skladba</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicList.qml" line="30"/>
         <source>%1 songs</source>
-        <translation>Skladb: %1</translation>
+        <translation type="vanished">Skladb: %1</translation>
     </message>
 </context>
 <context>
     <name>AllMusicListDelegate</name>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListDelegate.qml" line="212"/>
         <source>My Favorites</source>
-        <translation>Moje prilljubljene</translation>
+        <translation type="vanished">Moje prilljubljene</translation>
     </message>
 </context>
 <context>
     <name>AllMusicListView</name>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListView.qml" line="38"/>
         <source>Title</source>
-        <translation>Naslov</translation>
+        <translation type="vanished">Naslov</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListView.qml" line="44"/>
         <source>Artist</source>
-        <translation>Izvajalec</translation>
+        <translation type="vanished">Izvajalec</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListView.qml" line="49"/>
         <source>Album</source>
-        <translation>Album</translation>
+        <translation type="vanished">Album</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListView.qml" line="54"/>
         <source>Duration</source>
-        <translation>Trajanje</translation>
+        <translation type="vanished">Trajanje</translation>
     </message>
 </context>
 <context>
     <name>ArtistDefaultPage</name>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistDefaultPage.qml" line="36"/>
         <source>Add Songs</source>
-        <translation>Dodaj skladbe</translation>
+        <translation type="vanished">Dodaj skladbe</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistDefaultPage.qml" line="44"/>
         <source>Open Folders</source>
-        <translation>Odpri mape</translation>
+        <translation type="vanished">Odpri mape</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistDefaultPage.qml" line="60"/>
         <source>Drag music files here or</source>
-        <translation>Povlecite glasbene datoteke sem</translation>
+        <translation type="vanished">Povlecite glasbene datoteke sem</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistDefaultPage.qml" line="64"/>
         <source> scan the Music directory</source>
-        <translation type="unfinished">preišči mapo z glasbo</translation>
+        <translation type="obsolete">preišči mapo z glasbo</translation>
     </message>
 </context>
 <context>
     <name>ArtistGridDelegate</name>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistGridDelegate.qml" line="149"/>
         <source>1 song</source>
-        <translation>Ena skladba</translation>
+        <translation type="vanished">Ena skladba</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistGridDelegate.qml" line="149"/>
         <source>%1 songs</source>
-        <translation>Skladb: %1</translation>
+        <translation type="vanished">Skladb: %1</translation>
     </message>
 </context>
 <context>
     <name>ArtistMoreMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ArtistMoreMenu.qml" line="18"/>
         <source>View details</source>
-        <translation>Prikaži podrobnosti</translation>
+        <translation type="vanished">Prikaži podrobnosti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ArtistMoreMenu.qml" line="26"/>
         <source>Play all</source>
-        <translation>Predvajaj vse</translation>
+        <translation type="vanished">Predvajaj vse</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ArtistMoreMenu.qml" line="35"/>
         <source>Add to</source>
-        <translation>Dodaj v</translation>
+        <translation type="vanished">Dodaj v</translation>
     </message>
 </context>
 <context>
     <name>ArtistSublistDelegate</name>
     <message>
-        <location filename="../src/music-player/musicsublist/ArtistSublistDelegate.qml" line="102"/>
         <source>My Favorites</source>
-        <translation>Moje prilljubljene</translation>
+        <translation type="vanished">Moje prilljubljene</translation>
     </message>
 </context>
 <context>
     <name>ArtistSublistView</name>
     <message>
-        <location filename="../src/music-player/musicsublist/ArtistSublistView.qml" line="59"/>
         <source>Title</source>
-        <translation>Naslov</translation>
+        <translation type="vanished">Naslov</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/ArtistSublistView.qml" line="65"/>
         <source>Album</source>
-        <translation>Album</translation>
+        <translation type="vanished">Album</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/ArtistSublistView.qml" line="70"/>
         <source>Duration</source>
-        <translation>Trajanje</translation>
+        <translation type="vanished">Trajanje</translation>
     </message>
 </context>
 <context>
     <name>ArtistView</name>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistView.qml" line="54"/>
         <source>Artists</source>
-        <translation>Izvajalci</translation>
+        <translation type="vanished">Izvajalci</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistView.qml" line="55"/>
         <source>%1 artists - %2 songs</source>
-        <translation>Izvajalcev: %1; Skladb: %2</translation>
+        <translation type="vanished">Izvajalcev: %1; Skladb: %2</translation>
     </message>
 </context>
 <context>
     <name>CDRemovedDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/CDRemovedDialog.qml" line="32"/>
         <source>The CD has been removed</source>
-        <translation>CD je bil odstranjen</translation>
+        <translation type="vanished">CD je bil odstranjen</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CDRemovedDialog.qml" line="36"/>
         <source>Cancel</source>
-        <translation>Prekliči</translation>
+        <translation type="vanished">Prekliči</translation>
     </message>
 </context>
 <context>
     <name>CloseConfirmDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="36"/>
         <source>Please choose your action</source>
-        <translation>Izberite dejanje</translation>
+        <translation type="vanished">Izberite dejanje</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="50"/>
         <source>Minimize to system tray</source>
-        <translation>Pomanjšaj v statusno vrstico</translation>
+        <translation type="vanished">Pomanjšaj v statusno vrstico</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="62"/>
         <source>Exit</source>
-        <translation>Izhod</translation>
+        <translation type="vanished">Izhod</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="73"/>
         <source>Do not ask again</source>
-        <translation>Tega več ne vprašaj</translation>
+        <translation type="vanished">Tega več ne vprašaj</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="90"/>
         <source>Cancel</source>
-        <translation>Prekini</translation>
+        <translation type="vanished">Prekini</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="98"/>
         <source>Confirm</source>
-        <translation>Potrdi</translation>
+        <translation type="vanished">Potrdi</translation>
     </message>
 </context>
 <context>
     <name>CurrentPlayList</name>
     <message>
-        <location filename="../src/music-player/playlist/CurrentPlayList.qml" line="97"/>
         <source>Play queue</source>
-        <translation>Predvajaj čakalno vrsto</translation>
+        <translation type="vanished">Predvajaj čakalno vrsto</translation>
     </message>
     <message>
-        <location filename="../src/music-player/playlist/CurrentPlayList.qml" line="114"/>
         <source>1 song</source>
-        <translation>Ena skladba</translation>
+        <translation type="vanished">Ena skladba</translation>
     </message>
     <message>
-        <location filename="../src/music-player/playlist/CurrentPlayList.qml" line="114"/>
         <source>%1 songs</source>
-        <translation>Skladb: %1</translation>
+        <translation type="vanished">Skladb: %1</translation>
     </message>
     <message>
-        <location filename="../src/music-player/playlist/CurrentPlayList.qml" line="128"/>
         <source>Empty</source>
-        <translation>Prazno</translation>
+        <translation type="vanished">Prazno</translation>
     </message>
 </context>
 <context>
     <name>CurrentPlayListDelegate</name>
     <message>
-        <location filename="../src/music-player/playlist/CurrentPlayListDelegate.qml" line="123"/>
         <source>My Favorites</source>
-        <translation>Moje prilljubljene</translation>
+        <translation type="vanished">Moje prilljubljene</translation>
     </message>
 </context>
 <context>
     <name>CustomPlaylistModel</name>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/CustomPlaylistModel.qml" line="23"/>
         <source>My Favorites</source>
-        <translation>Moje prilljubljene</translation>
+        <translation type="vanished">Moje prilljubljene</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/CustomPlaylistModel.qml" line="80"/>
         <source>CD playlist</source>
-        <translation>CD seznam predvajanja</translation>
+        <translation type="vanished">CD seznam predvajanja</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/CustomPlaylistModel.qml" line="86"/>
         <source>CD</source>
-        <translation>CD</translation>
+        <translation type="vanished">CD</translation>
     </message>
 </context>
 <context>
     <name>DeleteLocalDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="34"/>
         <source>Are you sure you want to delete %1?</source>
-        <translation>Ali ste prepričani, da želite izbrisati %1?</translation>
+        <translation type="vanished">Ali ste prepričani, da želite izbrisati %1?</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="36"/>
         <source>Are you sure you want to delete the selected %1 songs?</source>
-        <translation>Ali ste prepričani, da želite izbrisati izbranih %1 skladb?</translation>
+        <translation type="vanished">Ali ste prepričani, da želite izbrisati izbranih %1 skladb?</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="45"/>
         <source>The song files contained will also be deleted</source>
-        <translation>Datoteke z glasbo bodo tudi izbrisane</translation>
+        <translation type="vanished">Datoteke z glasbo bodo tudi izbrisane</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="53"/>
         <source>Delete</source>
-        <translation>Izbriši</translation>
+        <translation type="vanished">Izbriši</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="65"/>
         <source>Cancel</source>
-        <translation>Prekliči</translation>
+        <translation type="vanished">Prekliči</translation>
     </message>
 </context>
 <context>
     <name>DeleteSonglistDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="41"/>
         <source>Are you sure you want to remove %1?</source>
-        <translation>Ali ste prepričani, da želite odstraniti %1?</translation>
+        <translation type="vanished">Ali ste prepričani, da želite odstraniti %1?</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="43"/>
         <source>Are you sure you want to remove the selected %1 songs?</source>
-        <translation>Ali ste prepričani, da želite odstraniti označenih %1 skladb?</translation>
+        <translation type="vanished">Ali ste prepričani, da želite odstraniti označenih %1 skladb?</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="45"/>
         <source>Are you sure you want to delete this playlist?</source>
-        <translation>Ali ste prepričani, da želite izbrisati ta seznam predvajanja?</translation>
+        <translation type="vanished">Ali ste prepričani, da želite izbrisati ta seznam predvajanja?</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="55"/>
         <source>Remove</source>
-        <translation>Odstrani</translation>
+        <translation type="vanished">Odstrani</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="55"/>
         <source>Delete</source>
-        <translation>Izbriši</translation>
+        <translation type="vanished">Izbriši</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="70"/>
         <source>Cancel</source>
-        <translation>Prekliči</translation>
+        <translation type="vanished">Prekliči</translation>
     </message>
 </context>
 <context>
     <name>EqualizerDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="14"/>
         <source>Custom</source>
-        <translation>Po meri</translation>
+        <translation type="vanished">Po meri</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="15"/>
         <source>Monophony</source>
-        <translation>Monofonija</translation>
+        <translation type="vanished">Monofonija</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="16"/>
         <source>Classical</source>
-        <translation>Klasika</translation>
+        <translation type="vanished">Klasika</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="17"/>
         <source>Club</source>
-        <translation>Klubska</translation>
+        <translation type="vanished">Klubska</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="18"/>
         <source>Dance</source>
-        <translation>Plesna</translation>
+        <translation type="vanished">Plesna</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="19"/>
         <source>Full Bass</source>
-        <translation>Poudarjeni basi</translation>
+        <translation type="vanished">Poudarjeni basi</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="20"/>
         <source>Full Bass and Treble</source>
-        <translation>Poudarjeni basi in visoki toni</translation>
+        <translation type="vanished">Poudarjeni basi in visoki toni</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="21"/>
         <source>Full Treble</source>
-        <translation>Poudarjeni visoki toni</translation>
+        <translation type="vanished">Poudarjeni visoki toni</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="22"/>
         <source>Headphones</source>
-        <translation>Slušalke</translation>
+        <translation type="vanished">Slušalke</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="23"/>
         <source>Hall</source>
-        <translation>Dvorana</translation>
+        <translation type="vanished">Dvorana</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="24"/>
         <source>Live</source>
-        <translation>V živo</translation>
+        <translation type="vanished">V živo</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="25"/>
         <source>Party</source>
-        <translation>Zabava</translation>
+        <translation type="vanished">Zabava</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="26"/>
         <source>Pop</source>
-        <translation>Pop</translation>
+        <translation type="vanished">Pop</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="27"/>
         <source>Reggae</source>
-        <translation>Regi</translation>
+        <translation type="vanished">Regi</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="28"/>
         <source>Rock</source>
-        <translation>Rock</translation>
+        <translation type="vanished">Rock</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="29"/>
         <source>Ska</source>
-        <translation>Ska</translation>
+        <translation type="vanished">Ska</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="30"/>
         <source>Soft</source>
-        <translation>Nežna</translation>
+        <translation type="vanished">Nežna</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="31"/>
         <source>Soft Rock</source>
-        <translation>Nežni rock</translation>
+        <translation type="vanished">Nežni rock</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="32"/>
         <source>Techno</source>
-        <translation>Tehno</translation>
+        <translation type="vanished">Tehno</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="106"/>
         <source>Equalizer</source>
-        <translation>Izravnalnik</translation>
+        <translation type="vanished">Izravnalnik</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="182"/>
         <source>Save</source>
-        <translation>Shrani</translation>
+        <translation type="vanished">Shrani</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="205"/>
         <source>Reset</source>
-        <translation>Ponastavi</translation>
+        <translation type="vanished">Ponastavi</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="314"/>
         <source>Preamplifier</source>
-        <translation>Predojačevalnik</translation>
+        <translation type="vanished">Predojačevalnik</translation>
     </message>
 </context>
 <context>
     <name>FileDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/FileDialog.qml" line="15"/>
         <source>All Music</source>
-        <translation>Vse pesmi</translation>
+        <translation type="vanished">Vse pesmi</translation>
     </message>
 </context>
 <context>
     <name>ImportFailedDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/ImportFailedDialog.qml" line="32"/>
         <source>Import failed, no valid music file found</source>
-        <translation>Uvažanje ni uspelo. Ni veljavnih glasbenih datotek</translation>
+        <translation type="vanished">Uvažanje ni uspelo. Ni veljavnih glasbenih datotek</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/ImportFailedDialog.qml" line="36"/>
         <source>OK</source>
-        <translation>V redu</translation>
+        <translation type="vanished">V redu</translation>
     </message>
 </context>
 <context>
     <name>ImportMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ImportMenu.qml" line="25"/>
         <source>Play queue</source>
-        <translation>Predvajaj čakalno vrsto</translation>
+        <translation type="vanished">Predvajaj čakalno vrsto</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ImportMenu.qml" line="40"/>
         <source>My favorites</source>
-        <translation>Moje priljubljene</translation>
+        <translation type="vanished">Moje priljubljene</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ImportMenu.qml" line="49"/>
         <source>Create new playlist</source>
-        <translation>Ustvari nov seznam predvajanja</translation>
+        <translation type="vanished">Ustvari nov seznam predvajanja</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ImportMenu.qml" line="52"/>
         <source>New playlist</source>
-        <translation>Nov seznam predvajanja</translation>
+        <translation type="vanished">Nov seznam predvajanja</translation>
     </message>
 </context>
 <context>
     <name>LyricPage</name>
     <message>
-        <location filename="../src/music-player/lyric/LyricPage.qml" line="133"/>
         <source>Artist</source>
-        <translation>Izvajalec</translation>
+        <translation type="vanished">Izvajalec</translation>
     </message>
     <message>
-        <location filename="../src/music-player/lyric/LyricPage.qml" line="141"/>
         <source>Album</source>
-        <translation>Album</translation>
+        <translation type="vanished">Album</translation>
     </message>
     <message>
-        <location filename="../src/music-player/lyric/LyricPage.qml" line="179"/>
         <source>No lyrics found</source>
-        <translation>Ne najdem besedila</translation>
+        <translation type="vanished">Ne najdem besedila</translation>
     </message>
     <message>
-        <location filename="../src/music-player/lyric/LyricPage.qml" line="189"/>
         <source>Please put the lyric file (same name as the song) and the song file in the same folder</source>
-        <translation>Postavite datoteko z besedilom (z enakim imenom kot ga ima skladba) v isto mapo</translation>
+        <translation type="vanished">Postavite datoteko z besedilom (z enakim imenom kot ga ima skladba) v isto mapo</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="188"/>
         <source>Music</source>
-        <translation>Glasba</translation>
+        <translation type="vanished">Glasba</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="203"/>
         <source>Play/Pause</source>
-        <translation>Predvajaj/premor</translation>
+        <translation type="vanished">Predvajaj/premor</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="207"/>
         <source>Previous</source>
-        <translation>Predhodni</translation>
+        <translation type="vanished">Predhodni</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="218"/>
         <source>Next</source>
-        <translation>Naprej</translation>
+        <translation type="vanished">Naprej</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="229"/>
         <source>Exit</source>
-        <translation>Izhod</translation>
+        <translation type="vanished">Izhod</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="343"/>
         <source>Already added to the playlist</source>
-        <translation>Že dodano v seznam predvajanja</translation>
+        <translation type="vanished">Že dodano v seznam predvajanja</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="346"/>
         <source>Added to &quot;%1&quot;</source>
-        <translation>Dodano k &quot;%1&quot;</translation>
+        <translation type="vanished">Dodano k &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="349"/>
         <source>Removed from &quot;My Favorites&quot;</source>
-        <translation>Odstranjeno iz &quot;Moje priljubljene&quot;</translation>
+        <translation type="vanished">Odstranjeno iz &quot;Moje priljubljene&quot;</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="352"/>
         <source>A disc is connected</source>
-        <translation>Povezan je disk</translation>
+        <translation type="vanished">Povezan je disk</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="368"/>
         <source>My Favorites</source>
-        <translation>Moje prilljubljene</translation>
+        <translation type="vanished">Moje prilljubljene</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="390"/>
         <source>All Songs</source>
-        <translation>Vse skladbe</translation>
+        <translation type="vanished">Vse skladbe</translation>
     </message>
 </context>
 <context>
     <name>MulitSelectMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MulitSelectMenu.qml" line="19"/>
         <source>Add to</source>
-        <translation>Dodaj v</translation>
+        <translation type="vanished">Dodaj v</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MulitSelectMenu.qml" line="28"/>
         <source>Remove from playlist</source>
-        <translation>Odstrani s seznama predvajanja</translation>
+        <translation type="vanished">Odstrani s seznama predvajanja</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MulitSelectMenu.qml" line="28"/>
         <source>Remove from play queue</source>
-        <translation>Odstranite iz predstavitve</translation>
+        <translation type="vanished">Odstranite iz predstavitve</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MulitSelectMenu.qml" line="35"/>
         <source>Delete from local disk</source>
-        <translation>Izbriši z lokalnega diska</translation>
+        <translation type="vanished">Izbriši z lokalnega diska</translation>
     </message>
 </context>
 <context>
     <name>MusicBaselistview</name>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="36"/>
         <source>Library</source>
-        <translation>Knjižnica</translation>
+        <translation type="vanished">Knjižnica</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="40"/>
         <source>Albums</source>
-        <translation>Albumi</translation>
+        <translation type="vanished">Albumi</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="41"/>
         <source>Artists</source>
-        <translation>Izvajalci</translation>
+        <translation type="vanished">Izvajalci</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="42"/>
         <source>All Songs</source>
-        <translation>Vse skladbe</translation>
+        <translation type="vanished">Vse skladbe</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="47"/>
         <source>Playlists</source>
-        <translation>Seznami predvajanja</translation>
+        <translation type="vanished">Seznami predvajanja</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="64"/>
         <source>Create playlist</source>
-        <translation>Ustvari seznam predvajanja</translation>
+        <translation type="vanished">Ustvari seznam predvajanja</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="66"/>
         <source>New playlist</source>
-        <translation>Nov seznam predvajanja</translation>
+        <translation type="vanished">Nov seznam predvajanja</translation>
     </message>
 </context>
 <context>
     <name>MusicContentWindow</name>
     <message>
-        <location filename="../src/music-player/mainwindow/MusicContentWindow.qml" line="22"/>
         <source>My Favorites</source>
-        <translation>Moje prilljubljene</translation>
+        <translation type="vanished">Moje prilljubljene</translation>
     </message>
 </context>
 <context>
     <name>MusicInfoDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="71"/>
         <source>Title</source>
-        <translation>Naslov</translation>
+        <translation type="vanished">Naslov</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="80"/>
         <source>Artist</source>
-        <translation>Izvajalec</translation>
+        <translation type="vanished">Izvajalec</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="86"/>
         <source>Album</source>
-        <translation>Album</translation>
+        <translation type="vanished">Album</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="95"/>
         <source>Type</source>
-        <translation>Vrsta</translation>
+        <translation type="vanished">Vrsta</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="101"/>
         <source>Size</source>
-        <translation>Velikost</translation>
+        <translation type="vanished">Velikost</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="107"/>
         <source>Duration</source>
-        <translation>Trajanje</translation>
+        <translation type="vanished">Trajanje</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="114"/>
         <source>Path</source>
-        <translation>Pot</translation>
+        <translation type="vanished">Pot</translation>
     </message>
 </context>
 <context>
     <name>MusicMoreMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="24"/>
         <source>Pause</source>
-        <translation>Premor</translation>
+        <translation type="vanished">Premor</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="24"/>
         <source>Play</source>
-        <translation>Predvajaj</translation>
+        <translation type="vanished">Predvajaj</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="44"/>
         <source>Add to</source>
-        <translation>Dodaj v</translation>
+        <translation type="vanished">Dodaj v</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="52"/>
         <source>Open in file manager</source>
-        <translation>Odpri v upravitelju datotek</translation>
+        <translation type="vanished">Odpri v upravitelju datotek</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="62"/>
         <source>Remove from playlist</source>
-        <translation>Odstrani s seznama predvajanja</translation>
+        <translation type="vanished">Odstrani s seznama predvajanja</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="62"/>
         <source>Remove from play queue</source>
-        <translation>Odstranite iz predstavitve</translation>
+        <translation type="vanished">Odstranite iz predstavitve</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="72"/>
         <source>Delete from local disk</source>
-        <translation>Izbriši z lokalnega diska</translation>
+        <translation type="vanished">Izbriši z lokalnega diska</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="79"/>
         <source>Encoding</source>
-        <translation>Encoding</translation>
+        <translation type="vanished">Encoding</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="104"/>
         <source>Song info</source>
-        <translation>Podatki o skladbi</translation>
+        <translation type="vanished">Podatki o skladbi</translation>
     </message>
 </context>
 <context>
@@ -913,160 +758,130 @@
 <context>
     <name>SearchResultDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/SearchResultDialog.qml" line="27"/>
         <source>Songs</source>
-        <translation>Skladbe</translation>
+        <translation type="vanished">Skladbe</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SearchResultDialog.qml" line="39"/>
         <source>Artists</source>
-        <translation>Izvajalci</translation>
+        <translation type="vanished">Izvajalci</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SearchResultDialog.qml" line="50"/>
         <source>Albums</source>
-        <translation>Albumi</translation>
+        <translation type="vanished">Albumi</translation>
     </message>
 </context>
 <context>
     <name>SearchResultWindow</name>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="55"/>
         <source>No search results</source>
-        <translation>Ni rezultatov iskanja</translation>
+        <translation type="vanished">Ni rezultatov iskanja</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="95"/>
         <source>Search Results</source>
-        <translation>Rezultati iskanja</translation>
+        <translation type="vanished">Rezultati iskanja</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="100"/>
         <source>%1 albums - %2 songs</source>
-        <translation>Albumov: %1; Skladb: %2</translation>
+        <translation type="vanished">Albumov: %1; Skladb: %2</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="101"/>
         <source>1 album - 1 song</source>
-        <translation>1 album - 1 skladba</translation>
+        <translation type="vanished">1 album - 1 skladba</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="101"/>
         <source>%1 album - %2 songs</source>
-        <translation>Albumov: %1; Skladb: %2</translation>
+        <translation type="vanished">Albumov: %1; Skladb: %2</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="120"/>
         <source>Music</source>
-        <translation>Glasba</translation>
+        <translation type="vanished">Glasba</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="128"/>
         <source>Artist</source>
-        <translation>Izvajalec</translation>
+        <translation type="vanished">Izvajalec</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="124"/>
         <source>Album</source>
-        <translation>Album</translation>
+        <translation type="vanished">Album</translation>
     </message>
 </context>
 <context>
     <name>SettingsDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="30"/>
         <source>Basic</source>
-        <translation>Osnove</translation>
+        <translation type="vanished">Osnove</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="34"/>
         <source>Play</source>
-        <translation>Predvajaj</translation>
+        <translation type="vanished">Predvajaj</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="42"/>
         <source>Autoplay</source>
-        <translation>Samodejno predvajanje</translation>
+        <translation type="vanished">Samodejno predvajanje</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="53"/>
         <source>Remember playback position on exit</source>
-        <translation>Ob izhodu si zapomni položaj predvajanja</translation>
+        <translation type="vanished">Ob izhodu si zapomni položaj predvajanja</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="66"/>
         <source>Enable fade in/out</source>
-        <translation>Vklopi mehki vstop/izstop</translation>
+        <translation type="vanished">Vklopi mehki vstop/izstop</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="78"/>
         <source>Close Main Window</source>
-        <translation>Zapri glavno okno</translation>
+        <translation type="vanished">Zapri glavno okno</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="91"/>
         <source>Minimize to system tray</source>
-        <translation>Pomanjšaj v statusno vrstico</translation>
+        <translation type="vanished">Pomanjšaj v statusno vrstico</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="98"/>
         <source>Exit</source>
-        <translation>Izhod</translation>
+        <translation type="vanished">Izhod</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="105"/>
         <source>Ask me always</source>
-        <translation>Vedno vprašaj</translation>
+        <translation type="vanished">Vedno vprašaj</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="137"/>
         <source>Shortcuts</source>
-        <translation>Bližnjice</translation>
+        <translation type="vanished">Bližnjice</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="158"/>
         <source>Play/Pause</source>
-        <translation>Predvajaj/premor</translation>
+        <translation type="vanished">Predvajaj/premor</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="201"/>
         <source>Previous</source>
-        <translation>Predhodni</translation>
+        <translation type="vanished">Predhodni</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="245"/>
         <source>Next</source>
-        <translation>Naprej</translation>
+        <translation type="vanished">Naprej</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="290"/>
         <source>Volume up</source>
-        <translation>Glasneje</translation>
+        <translation type="vanished">Glasneje</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="335"/>
         <source>Volume down</source>
-        <translation>Tišje</translation>
+        <translation type="vanished">Tišje</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="379"/>
         <source>Favorite</source>
-        <translation>Priljubljena</translation>
+        <translation type="vanished">Priljubljena</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="501"/>
         <source>Cancel</source>
-        <translation>Prekini</translation>
+        <translation type="vanished">Prekini</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="534"/>
         <source>Replace</source>
-        <translation>Zamenjaj</translation>
+        <translation type="vanished">Zamenjaj</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="490"/>
         <source>This shortcut key conflicts with [%1], click Replace to make this shortcut key take effect immediately</source>
-        <translation>Ta bližnjica se prekriva z/s [%1]. Lahko jo takoj omogočite s klikom na Zamenjaj</translation>
+        <translation type="vanished">Ta bližnjica se prekriva z/s [%1]. Lahko jo takoj omogočite s klikom na Zamenjaj</translation>
     </message>
 </context>
 <context>
@@ -1170,217 +985,178 @@
 <context>
     <name>Shortcuts</name>
     <message>
-        <location filename="../src/music-player/allItems/Shortcuts.qml" line="51"/>
         <source>New playlist</source>
-        <translation>Nov seznam predvajanja</translation>
+        <translation type="vanished">Nov seznam predvajanja</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/Shortcuts.qml" line="120"/>
         <source>My Favorites</source>
-        <translation>Moje prilljubljene</translation>
+        <translation type="vanished">Moje prilljubljene</translation>
     </message>
 </context>
 <context>
     <name>SidebarMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/SidebarMenu.qml" line="22"/>
         <source>Play</source>
-        <translation>Predvajaj</translation>
+        <translation type="vanished">Predvajaj</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/SidebarMenu.qml" line="29"/>
         <source>Add songs</source>
-        <translation>Dodaj skladbe</translation>
+        <translation type="vanished">Dodaj skladbe</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/SidebarMenu.qml" line="38"/>
         <source>Rename</source>
-        <translation>Preimenuj</translation>
+        <translation type="vanished">Preimenuj</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/SidebarMenu.qml" line="52"/>
         <source>Delete</source>
-        <translation>Izbriši</translation>
+        <translation type="vanished">Izbriši</translation>
     </message>
 </context>
 <context>
     <name>SortMenu</name>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="29"/>
         <source>CD playlist</source>
-        <translation>CD seznam predvajanja</translation>
+        <translation type="vanished">CD seznam predvajanja</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="33"/>
         <source>Custom</source>
-        <translation>Po meri</translation>
+        <translation type="vanished">Po meri</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="34"/>
         <source>Date added</source>
-        <translation>Datum dodajanja</translation>
+        <translation type="vanished">Datum dodajanja</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="37"/>
         <source>Album</source>
-        <translation>Album</translation>
+        <translation type="vanished">Album</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="36"/>
         <source>Artist</source>
-        <translation>Izvajalec</translation>
+        <translation type="vanished">Izvajalec</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="35"/>
         <source>Title</source>
-        <translation>Naslov</translation>
+        <translation type="vanished">Naslov</translation>
     </message>
 </context>
 <context>
     <name>SublistTitleButton</name>
     <message>
-        <location filename="../src/music-player/allItems/SublistTitleButton.qml" line="54"/>
         <source>1 song</source>
-        <translation>Ena skladba</translation>
+        <translation type="vanished">Ena skladba</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SublistTitleButton.qml" line="54"/>
         <source>%1 songs</source>
-        <translation>Skladb: %1</translation>
+        <translation type="vanished">Skladb: %1</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SublistTitleButton.qml" line="64"/>
         <source>Play All</source>
-        <translation>Predvajaj vse</translation>
+        <translation type="vanished">Predvajaj vse</translation>
     </message>
 </context>
 <context>
     <name>ToolButtonItem</name>
     <message>
-        <location filename="../src/music-player/allItems/ToolButtonItem.qml" line="59"/>
         <source>Play All</source>
-        <translation>Predvajaj vse</translation>
+        <translation type="vanished">Predvajaj vse</translation>
     </message>
 </context>
 <context>
     <name>Toolbar</name>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="43"/>
         <source>Sequential play</source>
-        <translation>Zaporedno predvajanje</translation>
+        <translation type="vanished">Zaporedno predvajanje</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="43"/>
         <source>List loop</source>
-        <translation>Ponavljanje seznama</translation>
+        <translation type="vanished">Ponavljanje seznama</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="43"/>
         <source>Single loop</source>
-        <translation>Posamično ponavljanje</translation>
+        <translation type="vanished">Posamično ponavljanje</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="43"/>
         <source>Shuffle</source>
-        <translation>Premešaj</translation>
+        <translation type="vanished">Premešaj</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="207"/>
         <source>Unfavorite</source>
-        <translation>Odstrani iz priljubljenih</translation>
+        <translation type="vanished">Odstrani iz priljubljenih</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="207"/>
         <source>Favorite</source>
-        <translation>Priljubljena</translation>
+        <translation type="vanished">Priljubljena</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="220"/>
         <source>My Favorites</source>
-        <translation>Moje prilljubljene</translation>
+        <translation type="vanished">Moje prilljubljene</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="238"/>
         <source>Previous</source>
-        <translation>Predhodni</translation>
+        <translation type="vanished">Predhodni</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="259"/>
         <source>Play/Pause</source>
-        <translation>Predvajaj/premor</translation>
+        <translation type="vanished">Predvajaj/premor</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="280"/>
         <source>Next</source>
-        <translation>Naprej</translation>
+        <translation type="vanished">Naprej</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="389"/>
         <source>Lyrics</source>
-        <translation>Besedilo</translation>
+        <translation type="vanished">Besedilo</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="438"/>
         <source>Play Queue</source>
-        <translation>Čakalna vrsta</translation>
+        <translation type="vanished">Čakalna vrsta</translation>
     </message>
 </context>
 <context>
     <name>WindowTitlebar</name>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="56"/>
         <source>Add playlist</source>
-        <translation>Dodaj seznam predvajanja</translation>
+        <translation type="vanished">Dodaj seznam predvajanja</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="58"/>
         <source>New playlist</source>
-        <translation>Nov seznam predvajanja</translation>
+        <translation type="vanished">Nov seznam predvajanja</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="63"/>
         <source>Add music</source>
-        <translation>Dodaj glasbo</translation>
+        <translation type="vanished">Dodaj glasbo</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="71"/>
         <source>Equalizer</source>
-        <translation>Izravnalnik</translation>
+        <translation type="vanished">Izravnalnik</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="82"/>
         <source>Settings</source>
-        <translation>Nastavitve</translation>
+        <translation type="vanished">Nastavitve</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="96"/>
         <source>Music</source>
-        <translation>Glasba</translation>
+        <translation type="vanished">Glasba</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="98"/>
         <source>Music is a local music player with beautiful design and simple functions.</source>
-        <translation>Glasba je predvajalnik lokalne glasbe z lepim in preprostim vmesnikom.</translation>
+        <translation type="vanished">Glasba je predvajalnik lokalne glasbe z lepim in preprostim vmesnikom.</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="99"/>
         <source>Version:</source>
-        <translation>Različica:</translation>
+        <translation type="vanished">Različica:</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="213"/>
         <source>Previous page</source>
-        <translation>Prejšnja stran</translation>
+        <translation type="vanished">Prejšnja stran</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="229"/>
         <source>Next page</source>
-        <translation>Naslednja stran</translation>
+        <translation type="vanished">Naslednja stran</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="239"/>
         <source>Search</source>
-        <translation>Iskanje</translation>
+        <translation type="vanished">Iskanje</translation>
     </message>
 </context>
 </TS>

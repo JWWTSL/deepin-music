@@ -4,887 +4,603 @@
 <context>
     <name>AlbumDefaultPage</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumDefaultPage.qml" line="35"/>
         <source>Add Songs</source>
-        <translation>ئەرەپتەر بەسڕا</translation>
+        <translation type="vanished">ئەرەپتەر بەسڕا</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumDefaultPage.qml" line="43"/>
         <source>Open Folders</source>
-        <translation>پەپەرەکان ئەچىن</translation>
+        <translation type="vanished">پەپەرەکان ئەچىن</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumDefaultPage.qml" line="59"/>
         <source>Drag music files here or</source>
-        <translation>مۇزىك فايلەکان ئەچىن یا</translation>
+        <translation type="vanished">مۇزىك فايلەکان ئەچىن یا</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumDefaultPage.qml" line="63"/>
         <source> scan the Music directory</source>
-        <translation>مۇزىك دىرەکتۆرى ئەچىن</translation>
+        <translation type="vanished">مۇزىك دىرەکتۆرى ئەچىن</translation>
     </message>
 </context>
 <context>
     <name>AlbumGridDelegate</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumGridDelegate.qml" line="116"/>
         <source>1 song</source>
-        <translation>1 ئەرەپتە</translation>
+        <translation type="vanished">1 ئەرەپتە</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumGridDelegate.qml" line="116"/>
         <source>%1 songs</source>
-        <translation>%1 ئەرەپتە</translation>
+        <translation type="vanished">%1 ئەرەپتە</translation>
     </message>
 </context>
 <context>
     <name>AlbumListDelegate</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListDelegate.qml" line="107"/>
         <source>%1</source>
-        <translation>%1</translation>
+        <translation type="vanished">%1</translation>
     </message>
 </context>
 <context>
     <name>AlbumListView</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListView.qml" line="33"/>
         <source>Album</source>
-        <translation>ئەلبوم</translation>
+        <translation type="vanished">ئەلبوم</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListView.qml" line="38"/>
         <source>Artist</source>
-        <translation>نەمە</translation>
+        <translation type="vanished">نەمە</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListView.qml" line="43"/>
         <source>Tracks</source>
-        <translation>تراك</translation>
+        <translation type="vanished">تراك</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListView.qml" line="48"/>
         <source>Date added</source>
-        <translation>تارىخ چۈشىنىشى</translation>
+        <translation type="vanished">تارىخ چۈشىنىشى</translation>
     </message>
 </context>
 <context>
     <name>AlbumMoreMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/AlbumMoreMenu.qml" line="20"/>
         <source>View details</source>
-        <translation>تەسىرلەر ئەچىن</translation>
+        <translation type="vanished">تەسىرلەر ئەچىن</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/AlbumMoreMenu.qml" line="28"/>
         <source>Play all</source>
-        <translation>بەشىنى ئەچىن</translation>
+        <translation type="vanished">بەشىنى ئەچىن</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/AlbumMoreMenu.qml" line="37"/>
         <source>Add to</source>
-        <translation>ئەچىن</translation>
+        <translation type="vanished">ئەچىن</translation>
     </message>
 </context>
 <context>
     <name>AlbumSublist</name>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublist.qml" line="36"/>
         <source>Title</source>
-        <translation>ئىسم</translation>
+        <translation type="vanished">ئىسم</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublist.qml" line="41"/>
         <source>Artist</source>
-        <translation>نەمە</translation>
+        <translation type="vanished">نەمە</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublist.qml" line="46"/>
         <source>Duration</source>
-        <translation>مىنىتە</translation>
+        <translation type="vanished">مىنىتە</translation>
     </message>
 </context>
 <context>
     <name>AlbumSublistDelegate</name>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublistDelegate.qml" line="147"/>
         <source>My Favorites</source>
-        <translation>نەمەلىم</translation>
+        <translation type="vanished">نەمەلىم</translation>
     </message>
 </context>
 <context>
     <name>AlbumSublistView</name>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublistView.qml" line="55"/>
         <source>Title</source>
-        <translation>ئىسم</translation>
+        <translation type="vanished">ئىسم</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublistView.qml" line="60"/>
         <source>Artist</source>
-        <translation>نەمە</translation>
+        <translation type="vanished">نەمە</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublistView.qml" line="66"/>
         <source>Duration</source>
-        <translation>مىنىتە</translation>
+        <translation type="vanished">مىنىتە</translation>
     </message>
 </context>
 <context>
     <name>AlbumView</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumView.qml" line="54"/>
         <source>Albums</source>
-        <translation>ئەلبوم</translation>
+        <translation type="vanished">ئەلبوم</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumView.qml" line="55"/>
         <source>%1 albums - %2 songs</source>
-        <translation>%1 ئەلبوم - %2 ئەرەپتە</translation>
+        <translation type="vanished">%1 ئەلبوم - %2 ئەرەپتە</translation>
     </message>
 </context>
 <context>
     <name>AllMusicDefaultPage</name>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="42"/>
         <source>Add Songs</source>
-        <translation>ئەرەپتەر بەسڕا</translation>
+        <translation type="vanished">ئەرەپتەر بەسڕا</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="50"/>
         <source>Open Folders</source>
-        <translation>پەپەرەکان ئەچىن</translation>
+        <translation type="vanished">پەپەرەکان ئەچىن</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="65"/>
         <source>Drag music files here or</source>
-        <translation>مۇزىك فايلەکان ئەچىن یا</translation>
+        <translation type="vanished">مۇزىك فايلەکان ئەچىن یا</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="99"/>
         <source>Your favorite songs will be displayed here</source>
-        <translation>نەمەلىم ئەرەپتەر بۇ يەردىن كۆرۈنىدۇ</translation>
+        <translation type="vanished">نەمەلىم ئەرەپتەر بۇ يەردىن كۆرۈنىدۇ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="111"/>
         <source>Click “</source>
-        <translation>بۇ يەردىن ئەرەپتەر بەسرا</translation>
+        <translation type="vanished">بۇ يەردىن ئەرەپتەر بەسرا</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="122"/>
         <source>” to add a song to My Favorites</source>
-        <translation>نەمەلىم ئەرەپتەرگە كىرگۈزۈڭ</translation>
+        <translation type="vanished">نەمەلىم ئەرەپتەرگە كىرگۈزۈڭ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="157"/>
         <source>No songs yet. Click “</source>
-        <translation>ھەنچە ئەرەپتەر بار. بۇ يەردىن ئەرەپتەر بەسرا</translation>
+        <translation type="vanished">ھەنچە ئەرەپتەر بار. بۇ يەردىن ئەرەپتەر بەسرا</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="168"/>
         <source>” to add songs to the playlist</source>
-        <translation>بۆ ئەوە دەتوانیت پەیوەندی بە دەرەوە بکەیت</translation>
+        <translation type="vanished">بۆ ئەوە دەتوانیت پەیوەندی بە دەرەوە بکەیت</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="69"/>
         <source> scan the Music directory</source>
-        <translation>دەرەوەی موزیک بەشێی کۆنکەرە</translation>
+        <translation type="vanished">دەرەوەی موزیک بەشێی کۆنکەرە</translation>
     </message>
 </context>
 <context>
     <name>AllMusicList</name>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicList.qml" line="17"/>
         <source>All Songs</source>
-        <translation>هەموو نەتەوە</translation>
+        <translation type="vanished">هەموو نەتەوە</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicList.qml" line="30"/>
         <source>1 song</source>
-        <translation>یەک نەتەوە</translation>
+        <translation type="vanished">یەک نەتەوە</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicList.qml" line="30"/>
         <source>%1 songs</source>
-        <translation>%1 نەتەوە</translation>
+        <translation type="vanished">%1 نەتەوە</translation>
     </message>
 </context>
 <context>
     <name>AllMusicListDelegate</name>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListDelegate.qml" line="212"/>
         <source>My Favorites</source>
-        <translation>بەرەوەکەم</translation>
+        <translation type="vanished">بەرەوەکەم</translation>
     </message>
 </context>
 <context>
     <name>AllMusicListView</name>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListView.qml" line="38"/>
         <source>Title</source>
-        <translation>ناو</translation>
+        <translation type="vanished">ناو</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListView.qml" line="44"/>
         <source>Artist</source>
-        <translation>نەتەوەکار</translation>
+        <translation type="vanished">نەتەوەکار</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListView.qml" line="49"/>
         <source>Album</source>
-        <translation>پاچە</translation>
+        <translation type="vanished">پاچە</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListView.qml" line="54"/>
         <source>Duration</source>
-        <translation>مەلەت</translation>
+        <translation type="vanished">مەلەت</translation>
     </message>
 </context>
 <context>
     <name>ArtistDefaultPage</name>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistDefaultPage.qml" line="36"/>
         <source>Add Songs</source>
-        <translation>نەتەوە بەکەوە</translation>
+        <translation type="vanished">نەتەوە بەکەوە</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistDefaultPage.qml" line="44"/>
         <source>Open Folders</source>
-        <translation>پەتەنەکە بەکەوە</translation>
+        <translation type="vanished">پەتەنەکە بەکەوە</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistDefaultPage.qml" line="60"/>
         <source>Drag music files here or</source>
-        <translation>نەتەوە فایلەکان بەکەوە یان</translation>
+        <translation type="vanished">نەتەوە فایلەکان بەکەوە یان</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistDefaultPage.qml" line="64"/>
         <source> scan the Music directory</source>
-        <translation>دەرەوەی موزیک بەشێی کۆنکەرە</translation>
+        <translation type="vanished">دەرەوەی موزیک بەشێی کۆنکەرە</translation>
     </message>
 </context>
 <context>
     <name>ArtistGridDelegate</name>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistGridDelegate.qml" line="149"/>
         <source>1 song</source>
-        <translation>یەک نەتەوە</translation>
+        <translation type="vanished">یەک نەتەوە</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistGridDelegate.qml" line="149"/>
         <source>%1 songs</source>
-        <translation>%1 نەتەوە</translation>
+        <translation type="vanished">%1 نەتەوە</translation>
     </message>
 </context>
 <context>
     <name>ArtistMoreMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ArtistMoreMenu.qml" line="18"/>
         <source>View details</source>
-        <translation>دەرەوە ببینە</translation>
+        <translation type="vanished">دەرەوە ببینە</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ArtistMoreMenu.qml" line="26"/>
         <source>Play all</source>
-        <translation>هەموو بەکەوە</translation>
+        <translation type="vanished">هەموو بەکەوە</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ArtistMoreMenu.qml" line="35"/>
         <source>Add to</source>
-        <translation>بەکەوە</translation>
+        <translation type="vanished">بەکەوە</translation>
     </message>
 </context>
 <context>
     <name>ArtistSublistDelegate</name>
     <message>
-        <location filename="../src/music-player/musicsublist/ArtistSublistDelegate.qml" line="102"/>
         <source>My Favorites</source>
-        <translation>بەرەوەکەم</translation>
+        <translation type="vanished">بەرەوەکەم</translation>
     </message>
 </context>
 <context>
     <name>ArtistSublistView</name>
     <message>
-        <location filename="../src/music-player/musicsublist/ArtistSublistView.qml" line="59"/>
         <source>Title</source>
-        <translation>ناو</translation>
+        <translation type="vanished">ناو</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/ArtistSublistView.qml" line="65"/>
         <source>Album</source>
-        <translation>پاچە</translation>
+        <translation type="vanished">پاچە</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/ArtistSublistView.qml" line="70"/>
         <source>Duration</source>
-        <translation>مەلەت</translation>
+        <translation type="vanished">مەلەت</translation>
     </message>
 </context>
 <context>
     <name>ArtistView</name>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistView.qml" line="54"/>
         <source>Artists</source>
-        <translation>نەتەوەکاران</translation>
+        <translation type="vanished">نەتەوەکاران</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistView.qml" line="55"/>
         <source>%1 artists - %2 songs</source>
-        <translation>%1 نەتەوەکار - %2 نەتەوە</translation>
+        <translation type="vanished">%1 نەتەوەکار - %2 نەتەوە</translation>
     </message>
 </context>
 <context>
     <name>CDRemovedDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/CDRemovedDialog.qml" line="32"/>
         <source>The CD has been removed</source>
-        <translation>دیسکەکە دەرەوە بەکەوە</translation>
+        <translation type="vanished">دیسکەکە دەرەوە بەکەوە</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CDRemovedDialog.qml" line="36"/>
         <source>Cancel</source>
-        <translation>Betal Bike</translation>
+        <translation type="vanished">Betal Bike</translation>
     </message>
 </context>
 <context>
     <name>CloseConfirmDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="36"/>
         <source>Please choose your action</source>
-        <translation>کردارەکەی دەتوانیت دەرەوە بکەیت</translation>
+        <translation type="vanished">کردارەکەی دەتوانیت دەرەوە بکەیت</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="50"/>
         <source>Minimize to system tray</source>
-        <translation>بەکەوە بە چاکەی سیستەم</translation>
+        <translation type="vanished">بەکەوە بە چاکەی سیستەم</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="62"/>
         <source>Exit</source>
-        <translation>چاکە بکە</translation>
+        <translation type="vanished">چاکە بکە</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="73"/>
         <source>Do not ask again</source>
-        <translation>بە دووبارە پرسیت نەکەوە</translation>
+        <translation type="vanished">بە دووبارە پرسیت نەکەوە</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="90"/>
         <source>Cancel</source>
-        <translation>Betal Bike</translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="98"/>
-        <source>Confirm</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CurrentPlayList</name>
-    <message>
-        <location filename="../src/music-player/playlist/CurrentPlayList.qml" line="97"/>
-        <source>Play queue</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/playlist/CurrentPlayList.qml" line="114"/>
-        <source>1 song</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/playlist/CurrentPlayList.qml" line="114"/>
-        <source>%1 songs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/playlist/CurrentPlayList.qml" line="128"/>
-        <source>Empty</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CurrentPlayListDelegate</name>
-    <message>
-        <location filename="../src/music-player/playlist/CurrentPlayListDelegate.qml" line="123"/>
-        <source>My Favorites</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CustomPlaylistModel</name>
-    <message>
-        <location filename="../src/music-player/musicbaseandsonglist/CustomPlaylistModel.qml" line="23"/>
-        <source>My Favorites</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/musicbaseandsonglist/CustomPlaylistModel.qml" line="80"/>
-        <source>CD playlist</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/musicbaseandsonglist/CustomPlaylistModel.qml" line="86"/>
-        <source>CD</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Betal Bike</translation>
     </message>
 </context>
 <context>
     <name>DeleteLocalDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="34"/>
-        <source>Are you sure you want to delete %1?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="36"/>
-        <source>Are you sure you want to delete the selected %1 songs?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="45"/>
-        <source>The song files contained will also be deleted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="53"/>
         <source>Delete</source>
-        <translation>Jê Bibe</translation>
+        <translation type="vanished">Jê Bibe</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="65"/>
         <source>Cancel</source>
-        <translation>Betal Bike</translation>
+        <translation type="vanished">Betal Bike</translation>
     </message>
 </context>
 <context>
     <name>DeleteSonglistDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="41"/>
-        <source>Are you sure you want to remove %1?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="43"/>
-        <source>Are you sure you want to remove the selected %1 songs?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="45"/>
-        <source>Are you sure you want to delete this playlist?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="55"/>
-        <source>Remove</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="55"/>
         <source>Delete</source>
-        <translation>Jê Bibe</translation>
+        <translation type="vanished">Jê Bibe</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="70"/>
         <source>Cancel</source>
-        <translation>Betal Bike</translation>
+        <translation type="vanished">Betal Bike</translation>
     </message>
 </context>
 <context>
     <name>EqualizerDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="14"/>
-        <source>Custom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="15"/>
-        <source>Monophony</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="16"/>
-        <source>Classical</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="17"/>
-        <source>Club</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="18"/>
-        <source>Dance</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="19"/>
-        <source>Full Bass</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="20"/>
-        <source>Full Bass and Treble</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="21"/>
-        <source>Full Treble</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="22"/>
-        <source>Headphones</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="23"/>
-        <source>Hall</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="24"/>
-        <source>Live</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="25"/>
-        <source>Party</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="26"/>
-        <source>Pop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="27"/>
-        <source>Reggae</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="28"/>
         <source>Rock</source>
-        <translation>Rock</translation>
+        <translation type="vanished">Rock</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="29"/>
         <source>Ska</source>
-        <translation>Ska</translation>
+        <translation type="vanished">Ska</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="30"/>
         <source>Soft</source>
-        <translation>Soft</translation>
+        <translation type="vanished">Soft</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="31"/>
         <source>Soft Rock</source>
-        <translation>Soft Rock</translation>
+        <translation type="vanished">Soft Rock</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="32"/>
         <source>Techno</source>
-        <translation>Techno</translation>
+        <translation type="vanished">Techno</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="106"/>
         <source>Equalizer</source>
-        <translation>Equalizer</translation>
+        <translation type="vanished">Equalizer</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="182"/>
         <source>Save</source>
-        <translation>Qeyd Bike</translation>
+        <translation type="vanished">Qeyd Bike</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="205"/>
         <source>Reset</source>
-        <translation>Reset</translation>
+        <translation type="vanished">Reset</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="314"/>
         <source>Preamplifier</source>
-        <translation>Preamplifier</translation>
+        <translation type="vanished">Preamplifier</translation>
     </message>
 </context>
 <context>
     <name>FileDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/FileDialog.qml" line="15"/>
         <source>All Music</source>
-        <translation>All Music</translation>
+        <translation type="vanished">All Music</translation>
     </message>
 </context>
 <context>
     <name>ImportFailedDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/ImportFailedDialog.qml" line="32"/>
         <source>Import failed, no valid music file found</source>
-        <translation>Import failed, no valid music file found</translation>
+        <translation type="vanished">Import failed, no valid music file found</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/ImportFailedDialog.qml" line="36"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
 </context>
 <context>
     <name>ImportMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ImportMenu.qml" line="25"/>
         <source>Play queue</source>
-        <translation>Play queue</translation>
+        <translation type="vanished">Play queue</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ImportMenu.qml" line="40"/>
         <source>My favorites</source>
-        <translation>My favorites</translation>
+        <translation type="vanished">My favorites</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ImportMenu.qml" line="49"/>
         <source>Create new playlist</source>
-        <translation>Create new playlist</translation>
+        <translation type="vanished">Create new playlist</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ImportMenu.qml" line="52"/>
         <source>New playlist</source>
-        <translation>New playlist</translation>
+        <translation type="vanished">New playlist</translation>
     </message>
 </context>
 <context>
     <name>LyricPage</name>
     <message>
-        <location filename="../src/music-player/lyric/LyricPage.qml" line="133"/>
         <source>Artist</source>
-        <translation>Artist</translation>
+        <translation type="vanished">Artist</translation>
     </message>
     <message>
-        <location filename="../src/music-player/lyric/LyricPage.qml" line="141"/>
         <source>Album</source>
-        <translation>Album</translation>
+        <translation type="vanished">Album</translation>
     </message>
     <message>
-        <location filename="../src/music-player/lyric/LyricPage.qml" line="179"/>
         <source>No lyrics found</source>
-        <translation>No lyrics found</translation>
+        <translation type="vanished">No lyrics found</translation>
     </message>
     <message>
-        <location filename="../src/music-player/lyric/LyricPage.qml" line="189"/>
         <source>Please put the lyric file (same name as the song) and the song file in the same folder</source>
-        <translation>Please put the lyric file (same name as the song) and the song file in the same folder</translation>
+        <translation type="vanished">Please put the lyric file (same name as the song) and the song file in the same folder</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="188"/>
         <source>Music</source>
-        <translation>Music</translation>
+        <translation type="vanished">Music</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="203"/>
         <source>Play/Pause</source>
-        <translation>Play/Pause</translation>
+        <translation type="vanished">Play/Pause</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="207"/>
         <source>Previous</source>
-        <translation>Previous</translation>
+        <translation type="vanished">Previous</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="218"/>
         <source>Next</source>
-        <translation>Next</translation>
+        <translation type="vanished">Next</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="229"/>
         <source>Exit</source>
-        <translation>Exit</translation>
+        <translation type="vanished">Exit</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="343"/>
         <source>Already added to the playlist</source>
-        <translation>Already added to the playlist</translation>
+        <translation type="vanished">Already added to the playlist</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="346"/>
         <source>Added to &quot;%1&quot;</source>
-        <translation>Added to &quot;%1&quot;</translation>
+        <translation type="vanished">Added to &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="349"/>
         <source>Removed from &quot;My Favorites&quot;</source>
-        <translation>Removed from &quot;My Favorites&quot;</translation>
+        <translation type="vanished">Removed from &quot;My Favorites&quot;</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="352"/>
         <source>A disc is connected</source>
-        <translation>A disc is connected</translation>
+        <translation type="vanished">A disc is connected</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="368"/>
         <source>My Favorites</source>
-        <translation>My Favorites</translation>
+        <translation type="vanished">My Favorites</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="390"/>
         <source>All Songs</source>
-        <translation>All Songs</translation>
+        <translation type="vanished">All Songs</translation>
     </message>
 </context>
 <context>
     <name>MulitSelectMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MulitSelectMenu.qml" line="19"/>
         <source>Add to</source>
-        <translation>Add to</translation>
+        <translation type="vanished">Add to</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MulitSelectMenu.qml" line="28"/>
         <source>Remove from playlist</source>
-        <translation>بەرکەشانە بەرەو پلەیلەست</translation>
+        <translation type="vanished">بەرکەشانە بەرەو پلەیلەست</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MulitSelectMenu.qml" line="28"/>
         <source>Remove from play queue</source>
-        <translation>بەرکەشانە بەرەو پلەی کووی</translation>
+        <translation type="vanished">بەرکەشانە بەرەو پلەی کووی</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MulitSelectMenu.qml" line="35"/>
         <source>Delete from local disk</source>
-        <translation>بەرکەشانە بەرەو دیسکی کۆمەڵاو</translation>
+        <translation type="vanished">بەرکەشانە بەرەو دیسکی کۆمەڵاو</translation>
     </message>
 </context>
 <context>
     <name>MusicBaselistview</name>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="36"/>
         <source>Library</source>
-        <translation>کۆمەڵاو</translation>
+        <translation type="vanished">کۆمەڵاو</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="40"/>
         <source>Albums</source>
-        <translation>آلبومەکان</translation>
+        <translation type="vanished">آلبومەکان</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="41"/>
         <source>Artists</source>
-        <translation>نەتەوەکان</translation>
+        <translation type="vanished">نەتەوەکان</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="42"/>
         <source>All Songs</source>
-        <translation>هەموو گۆشە</translation>
+        <translation type="vanished">هەموو گۆشە</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="47"/>
         <source>Playlists</source>
-        <translation>پلەیلەستەکان</translation>
+        <translation type="vanished">پلەیلەستەکان</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="64"/>
         <source>Create playlist</source>
-        <translation>پلەیلەست نووسە</translation>
+        <translation type="vanished">پلەیلەست نووسە</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="66"/>
         <source>New playlist</source>
-        <translation>پلەیلەست نوو</translation>
+        <translation type="vanished">پلەیلەست نوو</translation>
     </message>
 </context>
 <context>
     <name>MusicContentWindow</name>
     <message>
-        <location filename="../src/music-player/mainwindow/MusicContentWindow.qml" line="22"/>
         <source>My Favorites</source>
-        <translation>تەمەمەتەم</translation>
+        <translation type="vanished">تەمەمەتەم</translation>
     </message>
 </context>
 <context>
     <name>MusicInfoDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="71"/>
         <source>Title</source>
-        <translation>ناو</translation>
+        <translation type="vanished">ناو</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="80"/>
         <source>Artist</source>
-        <translation>نەتەوە</translation>
+        <translation type="vanished">نەتەوە</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="86"/>
         <source>Album</source>
-        <translation>آلبوم</translation>
+        <translation type="vanished">آلبوم</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="95"/>
         <source>Type</source>
-        <translation>تیپ</translation>
+        <translation type="vanished">تیپ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="101"/>
         <source>Size</source>
-        <translation>بەرەو</translation>
+        <translation type="vanished">بەرەو</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="107"/>
         <source>Duration</source>
-        <translation>مەرجەرەت</translation>
+        <translation type="vanished">مەرجەرەت</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="114"/>
         <source>Path</source>
-        <translation>پەت</translation>
+        <translation type="vanished">پەت</translation>
     </message>
 </context>
 <context>
     <name>MusicMoreMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="24"/>
         <source>Pause</source>
-        <translation>تۆپ کردن</translation>
+        <translation type="vanished">تۆپ کردن</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="24"/>
         <source>Play</source>
-        <translation>پلەی کردن</translation>
+        <translation type="vanished">پلەی کردن</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="44"/>
         <source>Add to</source>
-        <translation>بەرەو کردن</translation>
+        <translation type="vanished">بەرەو کردن</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="52"/>
         <source>Open in file manager</source>
-        <translation>بەرەو کردن بەرەو ڕێکخستنەرەو</translation>
+        <translation type="vanished">بەرەو کردن بەرەو ڕێکخستنەرەو</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="62"/>
         <source>Remove from playlist</source>
-        <translation>بەرکەشانە بەرەو پلەیلەست</translation>
+        <translation type="vanished">بەرکەشانە بەرەو پلەیلەست</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="62"/>
         <source>Remove from play queue</source>
-        <translation>بەرکەشانە بەرەو پلەی کووی</translation>
+        <translation type="vanished">بەرکەشانە بەرەو پلەی کووی</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="72"/>
         <source>Delete from local disk</source>
-        <translation>بەرکەشانە بەرەو دیسکی کۆمەڵاو</translation>
+        <translation type="vanished">بەرکەشانە بەرەو دیسکی کۆمەڵاو</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="79"/>
         <source>Encoding</source>
-        <translation>کۆدەکردن</translation>
+        <translation type="vanished">کۆدەکردن</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="104"/>
         <source>Song info</source>
-        <translation>مەلەتی گۆشە</translation>
+        <translation type="vanished">مەلەتی گۆشە</translation>
     </message>
 </context>
 <context>
@@ -907,166 +623,21 @@
     <message>
         <location filename="../src/music-player/main.cpp" line="143"/>
         <source>Unknown artist</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SearchResultDialog</name>
-    <message>
-        <location filename="../src/music-player/dialogs/SearchResultDialog.qml" line="27"/>
-        <source>Songs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/SearchResultDialog.qml" line="39"/>
-        <source>Artists</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/SearchResultDialog.qml" line="50"/>
-        <source>Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>نەرخان ئەرەسی</translation>
     </message>
 </context>
 <context>
     <name>SearchResultWindow</name>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="55"/>
         <source>No search results</source>
-        <translation>Tu encama lêgerînê tune ye</translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="95"/>
-        <source>Search Results</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="100"/>
-        <source>%1 albums - %2 songs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="101"/>
-        <source>1 album - 1 song</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="101"/>
-        <source>%1 album - %2 songs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="120"/>
-        <source>Music</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="128"/>
-        <source>Artist</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="124"/>
-        <source>Album</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Tu encama lêgerînê tune ye</translation>
     </message>
 </context>
 <context>
     <name>SettingsDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="30"/>
-        <source>Basic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="34"/>
-        <source>Play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="42"/>
-        <source>Autoplay</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="53"/>
-        <source>Remember playback position on exit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="66"/>
-        <source>Enable fade in/out</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="78"/>
-        <source>Close Main Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="91"/>
-        <source>Minimize to system tray</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="98"/>
-        <source>Exit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="105"/>
-        <source>Ask me always</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="137"/>
-        <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="158"/>
-        <source>Play/Pause</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="201"/>
-        <source>Previous</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="245"/>
-        <source>Next</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="290"/>
-        <source>Volume up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="335"/>
-        <source>Volume down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="379"/>
-        <source>Favorite</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="501"/>
         <source>Cancel</source>
-        <translation>Betal Bike</translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="534"/>
-        <source>Replace</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="490"/>
-        <source>This shortcut key conflicts with [%1], click Replace to make this shortcut key take effect immediately</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Betal Bike</translation>
     </message>
 </context>
 <context>
@@ -1074,7 +645,7 @@
     <message>
         <location filename="../src/music-player/util/shortcut.cpp" line="55"/>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>پڵەی</translation>
     </message>
     <message>
         <location filename="../src/music-player/util/shortcut.cpp" line="56"/>
@@ -1170,217 +741,178 @@
 <context>
     <name>Shortcuts</name>
     <message>
-        <location filename="../src/music-player/allItems/Shortcuts.qml" line="51"/>
         <source>New playlist</source>
-        <translation>يېڭى پليستى</translation>
+        <translation type="vanished">يېڭى پليستى</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/Shortcuts.qml" line="120"/>
         <source>My Favorites</source>
-        <translation>بىلەن ياخشىلىرىم</translation>
+        <translation type="vanished">بىلەن ياخشىلىرىم</translation>
     </message>
 </context>
 <context>
     <name>SidebarMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/SidebarMenu.qml" line="22"/>
         <source>Play</source>
-        <translation>پلي</translation>
+        <translation type="vanished">پلي</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/SidebarMenu.qml" line="29"/>
         <source>Add songs</source>
-        <translation>ئەیتى قوشۇ</translation>
+        <translation type="vanished">ئەیتى قوشۇ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/SidebarMenu.qml" line="38"/>
         <source>Rename</source>
-        <translation>ئىسمىنى ھەققىدە</translation>
+        <translation type="vanished">ئىسمىنى ھەققىدە</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/SidebarMenu.qml" line="52"/>
         <source>Delete</source>
-        <translation>Jê Bibe</translation>
+        <translation type="vanished">Jê Bibe</translation>
     </message>
 </context>
 <context>
     <name>SortMenu</name>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="29"/>
         <source>CD playlist</source>
-        <translation>سىدى ئىشلىنىدۇ</translation>
+        <translation type="vanished">سىدى ئىشلىنىدۇ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="33"/>
         <source>Custom</source>
-        <translation>ئەھۋاللى</translation>
+        <translation type="vanished">ئەھۋاللى</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="34"/>
         <source>Date added</source>
-        <translation>قوشۇلغان تارىخى</translation>
+        <translation type="vanished">قوشۇلغان تارىخى</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="37"/>
         <source>Album</source>
-        <translation>ئەلبوم</translation>
+        <translation type="vanished">ئەلبوم</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="36"/>
         <source>Artist</source>
-        <translation>ئىشىتى</translation>
+        <translation type="vanished">ئىشىتى</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="35"/>
         <source>Title</source>
-        <translation>ئىسمى</translation>
+        <translation type="vanished">ئىسمى</translation>
     </message>
 </context>
 <context>
     <name>SublistTitleButton</name>
     <message>
-        <location filename="../src/music-player/allItems/SublistTitleButton.qml" line="54"/>
         <source>1 song</source>
-        <translation>1 ئەيتى</translation>
+        <translation type="vanished">1 ئەيتى</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SublistTitleButton.qml" line="54"/>
         <source>%1 songs</source>
-        <translation>%1 نووا</translation>
+        <translation type="vanished">%1 نووا</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SublistTitleButton.qml" line="64"/>
         <source>Play All</source>
-        <translation>توانی نووا</translation>
+        <translation type="vanished">توانی نووا</translation>
     </message>
 </context>
 <context>
     <name>ToolButtonItem</name>
     <message>
-        <location filename="../src/music-player/allItems/ToolButtonItem.qml" line="59"/>
         <source>Play All</source>
-        <translation>توانی نووا</translation>
+        <translation type="vanished">توانی نووا</translation>
     </message>
 </context>
 <context>
     <name>Toolbar</name>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="43"/>
         <source>Sequential play</source>
-        <translation>توانی نووا</translation>
+        <translation type="vanished">توانی نووا</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="43"/>
         <source>List loop</source>
-        <translation>چرخاندن لیست</translation>
+        <translation type="vanished">چرخاندن لیست</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="43"/>
         <source>Single loop</source>
-        <translation>چرخاندن یەکەن</translation>
+        <translation type="vanished">چرخاندن یەکەن</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="43"/>
         <source>Shuffle</source>
-        <translation>چرخاندن تصادفي</translation>
+        <translation type="vanished">چرخاندن تصادفي</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="207"/>
         <source>Unfavorite</source>
-        <translation>نەرەنگ کردن</translation>
+        <translation type="vanished">نەرەنگ کردن</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="207"/>
         <source>Favorite</source>
-        <translation>رەنگ کردن</translation>
+        <translation type="vanished">رەنگ کردن</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="220"/>
         <source>My Favorites</source>
-        <translation>رەنگەکەم</translation>
+        <translation type="vanished">رەنگەکەم</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="238"/>
         <source>Previous</source>
-        <translation>پێش</translation>
+        <translation type="vanished">پێش</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="259"/>
         <source>Play/Pause</source>
-        <translation>توانی/کەسکردن</translation>
+        <translation type="vanished">توانی/کەسکردن</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="280"/>
         <source>Next</source>
-        <translation>بەر</translation>
+        <translation type="vanished">بەر</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="389"/>
         <source>Lyrics</source>
-        <translation>کردارەکان</translation>
+        <translation type="vanished">کردارەکان</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="438"/>
         <source>Play Queue</source>
-        <translation>ئەوەی توانی</translation>
+        <translation type="vanished">ئەوەی توانی</translation>
     </message>
 </context>
 <context>
     <name>WindowTitlebar</name>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="56"/>
         <source>Add playlist</source>
-        <translation>لیست توانی بەڕێvan</translation>
+        <translation type="vanished">لیست توانی بەڕێvan</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="58"/>
         <source>New playlist</source>
-        <translation>لیست توانی نوێ</translation>
+        <translation type="vanished">لیست توانی نوێ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="63"/>
         <source>Add music</source>
-        <translation>موسيقا بەڕێvan</translation>
+        <translation type="vanished">موسيقا بەڕێvan</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="71"/>
         <source>Equalizer</source>
-        <translation>ئەوەی توانی</translation>
+        <translation type="vanished">ئەوەی توانی</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="82"/>
         <source>Settings</source>
-        <translation>بەرنامەکان</translation>
+        <translation type="vanished">بەرنامەکان</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="96"/>
         <source>Music</source>
-        <translation>موسيقا</translation>
+        <translation type="vanished">موسيقا</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="98"/>
         <source>Music is a local music player with beautiful design and simple functions.</source>
-        <translation>موسيقا بەرنامەیەکی پەرەمەنەرەکانیە و بە دەقیکەی بەکارهێنەر و بە سادەکردنەوەیەکانیە</translation>
+        <translation type="vanished">موسيقا بەرنامەیەکی پەرەمەنەرەکانیە و بە دەقیکەی بەکارهێنەر و بە سادەکردنەوەیەکانیە</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="99"/>
         <source>Version:</source>
-        <translation>ناونەری:</translation>
+        <translation type="vanished">ناونەری:</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="213"/>
         <source>Previous page</source>
-        <translation>سەرەتە پێش</translation>
+        <translation type="vanished">سەرەتە پێش</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="229"/>
         <source>Next page</source>
-        <translation>سەرەتە بەر</translation>
+        <translation type="vanished">سەرەتە بەر</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="239"/>
         <source>Search</source>
-        <translation>Lê bigere</translation>
+        <translation type="vanished">Lê bigere</translation>
     </message>
 </context>
 </TS>

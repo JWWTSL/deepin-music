@@ -4,887 +4,724 @@
 <context>
     <name>AlbumDefaultPage</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumDefaultPage.qml" line="35"/>
         <source>Add Songs</source>
-        <translation>Pridėti dainų</translation>
+        <translation type="vanished">Pridėti dainų</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumDefaultPage.qml" line="43"/>
         <source>Open Folders</source>
-        <translation>Atverti aplankus</translation>
+        <translation type="vanished">Atverti aplankus</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumDefaultPage.qml" line="59"/>
         <source>Drag music files here or</source>
-        <translation>Paimėkite muzikos failus čia arba</translation>
+        <translation type="vanished">Paimėkite muzikos failus čia arba</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumDefaultPage.qml" line="63"/>
         <source> scan the Music directory</source>
-        <translation>nuskenuokite Muzikos aplanką</translation>
+        <translation type="vanished">nuskenuokite Muzikos aplanką</translation>
     </message>
 </context>
 <context>
     <name>AlbumGridDelegate</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumGridDelegate.qml" line="116"/>
         <source>1 song</source>
-        <translation>1 daina</translation>
+        <translation type="vanished">1 daina</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumGridDelegate.qml" line="116"/>
         <source>%1 songs</source>
-        <translation>%1 dainų</translation>
+        <translation type="vanished">%1 dainų</translation>
     </message>
 </context>
 <context>
     <name>AlbumListDelegate</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListDelegate.qml" line="107"/>
         <source>%1</source>
-        <translation>%1</translation>
+        <translation type="vanished">%1</translation>
     </message>
 </context>
 <context>
     <name>AlbumListView</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListView.qml" line="33"/>
         <source>Album</source>
-        <translation>Albumas</translation>
+        <translation type="vanished">Albumas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListView.qml" line="38"/>
         <source>Artist</source>
-        <translation>Atlikėjas</translation>
+        <translation type="vanished">Atlikėjas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListView.qml" line="43"/>
         <source>Tracks</source>
-        <translation>Stačiakampiai</translation>
+        <translation type="vanished">Stačiakampiai</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListView.qml" line="48"/>
         <source>Date added</source>
-        <translation>Pridėta data</translation>
+        <translation type="vanished">Pridėta data</translation>
     </message>
 </context>
 <context>
     <name>AlbumMoreMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/AlbumMoreMenu.qml" line="20"/>
         <source>View details</source>
-        <translation>Peržiūrėti detalius</translation>
+        <translation type="vanished">Peržiūrėti detalius</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/AlbumMoreMenu.qml" line="28"/>
         <source>Play all</source>
-        <translation>Atsiskaityti visus</translation>
+        <translation type="vanished">Atsiskaityti visus</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/AlbumMoreMenu.qml" line="37"/>
         <source>Add to</source>
-        <translation>Pridėti prie</translation>
+        <translation type="vanished">Pridėti prie</translation>
     </message>
 </context>
 <context>
     <name>AlbumSublist</name>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublist.qml" line="36"/>
         <source>Title</source>
-        <translation>Pavadinimas</translation>
+        <translation type="vanished">Pavadinimas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublist.qml" line="41"/>
         <source>Artist</source>
-        <translation>Atlikėjas</translation>
+        <translation type="vanished">Atlikėjas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublist.qml" line="46"/>
         <source>Duration</source>
-        <translation>Trukmė</translation>
+        <translation type="vanished">Trukmė</translation>
     </message>
 </context>
 <context>
     <name>AlbumSublistDelegate</name>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublistDelegate.qml" line="147"/>
         <source>My Favorites</source>
-        <translation>Mano mėgstamiausiai</translation>
+        <translation type="vanished">Mano mėgstamiausiai</translation>
     </message>
 </context>
 <context>
     <name>AlbumSublistView</name>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublistView.qml" line="55"/>
         <source>Title</source>
-        <translation>Pavadinimas</translation>
+        <translation type="vanished">Pavadinimas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublistView.qml" line="60"/>
         <source>Artist</source>
-        <translation>Atlikėjas</translation>
+        <translation type="vanished">Atlikėjas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublistView.qml" line="66"/>
         <source>Duration</source>
-        <translation>Trukmė</translation>
+        <translation type="vanished">Trukmė</translation>
     </message>
 </context>
 <context>
     <name>AlbumView</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumView.qml" line="54"/>
         <source>Albums</source>
-        <translation>Albumai</translation>
+        <translation type="vanished">Albumai</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumView.qml" line="55"/>
         <source>%1 albums - %2 songs</source>
-        <translation>Albumų: %1 – Dainų: %2</translation>
+        <translation type="vanished">Albumų: %1 – Dainų: %2</translation>
     </message>
 </context>
 <context>
     <name>AllMusicDefaultPage</name>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="42"/>
         <source>Add Songs</source>
-        <translation>Pridėti dainų</translation>
+        <translation type="vanished">Pridėti dainų</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="50"/>
         <source>Open Folders</source>
-        <translation>Atverti aplankus</translation>
+        <translation type="vanished">Atverti aplankus</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="65"/>
         <source>Drag music files here or</source>
-        <translation>Paimėkite muzikos failus čia arba</translation>
+        <translation type="vanished">Paimėkite muzikos failus čia arba</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="99"/>
         <source>Your favorite songs will be displayed here</source>
-        <translation>Jūsų mėgstamiausios dainos bus pateiktos čia</translation>
+        <translation type="vanished">Jūsų mėgstamiausios dainos bus pateiktos čia</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="111"/>
         <source>Click “</source>
-        <translation>Spustelėkite “</translation>
+        <translation type="vanished">Spustelėkite “</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="122"/>
         <source>” to add a song to My Favorites</source>
-        <translation>” norėdami pridėti dainą į „Mano mėgstamiausiai“</translation>
+        <translation type="vanished">” norėdami pridėti dainą į „Mano mėgstamiausiai“</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="157"/>
         <source>No songs yet. Click “</source>
-        <translation>Dainų dar nėra. Spustelėkite “</translation>
+        <translation type="vanished">Dainų dar nėra. Spustelėkite “</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="168"/>
         <source>” to add songs to the playlist</source>
-        <translation>” norėdami pridėti dainas į sąrašą</translation>
+        <translation type="vanished">” norėdami pridėti dainas į sąrašą</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="69"/>
         <source> scan the Music directory</source>
-        <translation>nuskenuokite Muzikos aplanką</translation>
+        <translation type="vanished">nuskenuokite Muzikos aplanką</translation>
     </message>
 </context>
 <context>
     <name>AllMusicList</name>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicList.qml" line="17"/>
         <source>All Songs</source>
-        <translation>Visos dainos</translation>
+        <translation type="vanished">Visos dainos</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicList.qml" line="30"/>
         <source>1 song</source>
-        <translation>1 daina</translation>
+        <translation type="vanished">1 daina</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicList.qml" line="30"/>
         <source>%1 songs</source>
-        <translation>%1 dainų</translation>
+        <translation type="vanished">%1 dainų</translation>
     </message>
 </context>
 <context>
     <name>AllMusicListDelegate</name>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListDelegate.qml" line="212"/>
         <source>My Favorites</source>
-        <translation>Mano mėgstamiausiai</translation>
+        <translation type="vanished">Mano mėgstamiausiai</translation>
     </message>
 </context>
 <context>
     <name>AllMusicListView</name>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListView.qml" line="38"/>
         <source>Title</source>
-        <translation>Pavadinimas</translation>
+        <translation type="vanished">Pavadinimas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListView.qml" line="44"/>
         <source>Artist</source>
-        <translation>Atlikėjas</translation>
+        <translation type="vanished">Atlikėjas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListView.qml" line="49"/>
         <source>Album</source>
-        <translation>Albumas</translation>
+        <translation type="vanished">Albumas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListView.qml" line="54"/>
         <source>Duration</source>
-        <translation>Trukmė</translation>
+        <translation type="vanished">Trukmė</translation>
     </message>
 </context>
 <context>
     <name>ArtistDefaultPage</name>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistDefaultPage.qml" line="36"/>
         <source>Add Songs</source>
-        <translation>Pridėti dainų</translation>
+        <translation type="vanished">Pridėti dainų</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistDefaultPage.qml" line="44"/>
         <source>Open Folders</source>
-        <translation>Atverti aplankus</translation>
+        <translation type="vanished">Atverti aplankus</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistDefaultPage.qml" line="60"/>
         <source>Drag music files here or</source>
-        <translation>Paimėkite muzikos failus čia arba</translation>
+        <translation type="vanished">Paimėkite muzikos failus čia arba</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistDefaultPage.qml" line="64"/>
         <source> scan the Music directory</source>
-        <translation>nuskenuokite Muzikos aplanką</translation>
+        <translation type="vanished">nuskenuokite Muzikos aplanką</translation>
     </message>
 </context>
 <context>
     <name>ArtistGridDelegate</name>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistGridDelegate.qml" line="149"/>
         <source>1 song</source>
-        <translation>1 daina</translation>
+        <translation type="vanished">1 daina</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistGridDelegate.qml" line="149"/>
         <source>%1 songs</source>
-        <translation>%1 dainų</translation>
+        <translation type="vanished">%1 dainų</translation>
     </message>
 </context>
 <context>
     <name>ArtistMoreMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ArtistMoreMenu.qml" line="18"/>
         <source>View details</source>
-        <translation>Peržiūrėti detalius</translation>
+        <translation type="vanished">Peržiūrėti detalius</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ArtistMoreMenu.qml" line="26"/>
         <source>Play all</source>
-        <translation>Atsiskaityti visus</translation>
+        <translation type="vanished">Atsiskaityti visus</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ArtistMoreMenu.qml" line="35"/>
         <source>Add to</source>
-        <translation>Pridėti prie</translation>
+        <translation type="vanished">Pridėti prie</translation>
     </message>
 </context>
 <context>
     <name>ArtistSublistDelegate</name>
     <message>
-        <location filename="../src/music-player/musicsublist/ArtistSublistDelegate.qml" line="102"/>
         <source>My Favorites</source>
-        <translation>Mano mėgstamiausiai</translation>
+        <translation type="vanished">Mano mėgstamiausiai</translation>
     </message>
 </context>
 <context>
     <name>ArtistSublistView</name>
     <message>
-        <location filename="../src/music-player/musicsublist/ArtistSublistView.qml" line="59"/>
         <source>Title</source>
-        <translation>Pavadinimas</translation>
+        <translation type="vanished">Pavadinimas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/ArtistSublistView.qml" line="65"/>
         <source>Album</source>
-        <translation>Albumas</translation>
+        <translation type="vanished">Albumas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/ArtistSublistView.qml" line="70"/>
         <source>Duration</source>
-        <translation>Trukmė</translation>
+        <translation type="vanished">Trukmė</translation>
     </message>
 </context>
 <context>
     <name>ArtistView</name>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistView.qml" line="54"/>
         <source>Artists</source>
-        <translation>Atlikėjai</translation>
+        <translation type="vanished">Atlikėjai</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistView.qml" line="55"/>
         <source>%1 artists - %2 songs</source>
-        <translation>%1 muzikantai - %2 dainų</translation>
+        <translation type="vanished">%1 muzikantai - %2 dainų</translation>
     </message>
 </context>
 <context>
     <name>CDRemovedDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/CDRemovedDialog.qml" line="32"/>
         <source>The CD has been removed</source>
-        <translation>CD buvo pašalintas</translation>
+        <translation type="vanished">CD buvo pašalintas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CDRemovedDialog.qml" line="36"/>
         <source>Cancel</source>
-        <translation>Atsisakyti</translation>
+        <translation type="vanished">Atsisakyti</translation>
     </message>
 </context>
 <context>
     <name>CloseConfirmDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="36"/>
         <source>Please choose your action</source>
-        <translation>Pasirinkite veiksmą</translation>
+        <translation type="vanished">Pasirinkite veiksmą</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="50"/>
         <source>Minimize to system tray</source>
-        <translation>Suskleisti į sistemos dėklą</translation>
+        <translation type="vanished">Suskleisti į sistemos dėklą</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="62"/>
         <source>Exit</source>
-        <translation>Išeiti</translation>
+        <translation type="vanished">Išeiti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="73"/>
         <source>Do not ask again</source>
-        <translation>Daugiau nebeklausti</translation>
+        <translation type="vanished">Daugiau nebeklausti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="90"/>
         <source>Cancel</source>
-        <translation>Atsisakyti</translation>
+        <translation type="vanished">Atsisakyti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="98"/>
         <source>Confirm</source>
-        <translation>Patvirtinti</translation>
+        <translation type="vanished">Patvirtinti</translation>
     </message>
 </context>
 <context>
     <name>CurrentPlayList</name>
     <message>
-        <location filename="../src/music-player/playlist/CurrentPlayList.qml" line="97"/>
         <source>Play queue</source>
-        <translation>Skaitmeninė eilutė</translation>
+        <translation type="vanished">Skaitmeninė eilutė</translation>
     </message>
     <message>
-        <location filename="../src/music-player/playlist/CurrentPlayList.qml" line="114"/>
         <source>1 song</source>
-        <translation>1 daina</translation>
+        <translation type="vanished">1 daina</translation>
     </message>
     <message>
-        <location filename="../src/music-player/playlist/CurrentPlayList.qml" line="114"/>
         <source>%1 songs</source>
-        <translation>&apos;%1dainų&apos;</translation>
+        <translation type="vanished">&apos;%1dainų&apos;</translation>
     </message>
     <message>
-        <location filename="../src/music-player/playlist/CurrentPlayList.qml" line="128"/>
         <source>Empty</source>
-        <translation>Išvalyti</translation>
+        <translation type="vanished">Išvalyti</translation>
     </message>
 </context>
 <context>
     <name>CurrentPlayListDelegate</name>
     <message>
-        <location filename="../src/music-player/playlist/CurrentPlayListDelegate.qml" line="123"/>
         <source>My Favorites</source>
-        <translation>Mano mėgstamiausi</translation>
+        <translation type="vanished">Mano mėgstamiausi</translation>
     </message>
 </context>
 <context>
     <name>CustomPlaylistModel</name>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/CustomPlaylistModel.qml" line="23"/>
         <source>My Favorites</source>
-        <translation>CD eilutė</translation>
+        <translation type="vanished">CD eilutė</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/CustomPlaylistModel.qml" line="80"/>
         <source>CD playlist</source>
-        <translation>CD</translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/musicbaseandsonglist/CustomPlaylistModel.qml" line="86"/>
-        <source>CD</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">CD</translation>
     </message>
 </context>
 <context>
     <name>DeleteLocalDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="34"/>
         <source>Are you sure you want to delete %1?</source>
-        <translation>Ar tikrai norite ištrinti %1?</translation>
+        <translation type="vanished">Ar tikrai norite ištrinti %1?</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="36"/>
         <source>Are you sure you want to delete the selected %1 songs?</source>
-        <translation>Ar tikrai norite ištrinti %1 pasirinktas dainas?</translation>
+        <translation type="vanished">Ar tikrai norite ištrinti %1 pasirinktas dainas?</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="45"/>
         <source>The song files contained will also be deleted</source>
-        <translation>Ar tikrai norite pašalinti pasirinktą %1 dainas?</translation>
+        <translation type="vanished">Ar tikrai norite pašalinti pasirinktą %1 dainas?</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="53"/>
         <source>Delete</source>
-        <translation>Ištrinti</translation>
+        <translation type="vanished">Ištrinti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="65"/>
         <source>Cancel</source>
-        <translation>Atsisakyti</translation>
+        <translation type="vanished">Atsisakyti</translation>
     </message>
 </context>
 <context>
     <name>DeleteSonglistDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="41"/>
         <source>Are you sure you want to remove %1?</source>
-        <translation>Ar tikrai norite pašalinti %1?</translation>
+        <translation type="vanished">Ar tikrai norite pašalinti %1?</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="43"/>
         <source>Are you sure you want to remove the selected %1 songs?</source>
-        <translation>Monofonija</translation>
+        <translation type="vanished">Monofonija</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="45"/>
         <source>Are you sure you want to delete this playlist?</source>
-        <translation>Ar tikrai norite ištrinti šį grojaraštį?</translation>
+        <translation type="vanished">Ar tikrai norite ištrinti šį grojaraštį?</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="55"/>
         <source>Remove</source>
-        <translation>Šalinti</translation>
+        <translation type="vanished">Šalinti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="55"/>
         <source>Delete</source>
-        <translation>Ištrinti</translation>
+        <translation type="vanished">Ištrinti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="70"/>
         <source>Cancel</source>
-        <translation>Atsisakyti</translation>
+        <translation type="vanished">Atsisakyti</translation>
     </message>
 </context>
 <context>
     <name>EqualizerDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="14"/>
         <source>Custom</source>
-        <translation>Pasirinktinas</translation>
+        <translation type="vanished">Pasirinktinas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="15"/>
         <source>Monophony</source>
-        <translation>Pilnas bazines</translation>
+        <translation type="vanished">Pilnas bazines</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="16"/>
         <source>Classical</source>
-        <translation>Klasikinė</translation>
+        <translation type="vanished">Klasikinė</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="17"/>
         <source>Club</source>
-        <translation>Klubinė</translation>
+        <translation type="vanished">Klubinė</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="18"/>
         <source>Dance</source>
-        <translation>Šokių</translation>
+        <translation type="vanished">Šokių</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="19"/>
         <source>Full Bass</source>
-        <translation>Pilnas bazines ir aukštutinės</translation>
+        <translation type="vanished">Pilnas bazines ir aukštutinės</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="20"/>
         <source>Full Bass and Treble</source>
-        <translation>Pilnas aukštutinės</translation>
+        <translation type="vanished">Pilnas aukštutinės</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="21"/>
         <source>Full Treble</source>
-        <translation>Hall</translation>
+        <translation type="vanished">Hall</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="22"/>
         <source>Headphones</source>
-        <translation>Ausinės</translation>
+        <translation type="vanished">Ausinės</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="23"/>
         <source>Hall</source>
-        <translation>Techno</translation>
+        <translation type="vanished">Techno</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="24"/>
         <source>Live</source>
-        <translation>Gyvai</translation>
+        <translation type="vanished">Gyvai</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="25"/>
         <source>Party</source>
-        <translation>Vakarėlis</translation>
+        <translation type="vanished">Vakarėlis</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="26"/>
         <source>Pop</source>
-        <translation>Pop</translation>
+        <translation type="vanished">Pop</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="27"/>
         <source>Reggae</source>
-        <translation>Regis</translation>
+        <translation type="vanished">Regis</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="28"/>
         <source>Rock</source>
-        <translation>Rokas</translation>
+        <translation type="vanished">Rokas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="29"/>
         <source>Ska</source>
-        <translation>Ska</translation>
+        <translation type="vanished">Ska</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="30"/>
         <source>Soft</source>
-        <translation>Švelniai</translation>
+        <translation type="vanished">Švelniai</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="31"/>
         <source>Soft Rock</source>
-        <translation>Švelnus rokas</translation>
+        <translation type="vanished">Švelnus rokas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="32"/>
         <source>Techno</source>
-        <translation>Papraėmų</translation>
+        <translation type="vanished">Papraėmų</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="106"/>
         <source>Equalizer</source>
-        <translation>Glodintuvas</translation>
+        <translation type="vanished">Glodintuvas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="182"/>
         <source>Save</source>
-        <translation>Įrašyti</translation>
+        <translation type="vanished">Įrašyti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="205"/>
         <source>Reset</source>
-        <translation>Atstatyti</translation>
+        <translation type="vanished">Atstatyti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="314"/>
         <source>Preamplifier</source>
-        <translation>Visa muzika</translation>
+        <translation type="vanished">Visa muzika</translation>
     </message>
 </context>
 <context>
     <name>FileDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/FileDialog.qml" line="15"/>
         <source>All Music</source>
-        <translation>Importavimas nepavyko, nerastas galimai muzikos failas</translation>
+        <translation type="vanished">Importavimas nepavyko, nerastas galimai muzikos failas</translation>
     </message>
 </context>
 <context>
     <name>ImportFailedDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/ImportFailedDialog.qml" line="32"/>
         <source>Import failed, no valid music file found</source>
-        <translation>Skaitmeninė eilutė</translation>
+        <translation type="vanished">Skaitmeninė eilutė</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/ImportFailedDialog.qml" line="36"/>
         <source>OK</source>
-        <translation>Gerai</translation>
+        <translation type="vanished">Gerai</translation>
     </message>
 </context>
 <context>
     <name>ImportMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ImportMenu.qml" line="25"/>
         <source>Play queue</source>
-        <translation>Sukurti naują eilutę</translation>
+        <translation type="vanished">Sukurti naują eilutę</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ImportMenu.qml" line="40"/>
         <source>My favorites</source>
-        <translation>Mano mėgstamos</translation>
+        <translation type="vanished">Mano mėgstamos</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ImportMenu.qml" line="49"/>
         <source>Create new playlist</source>
-        <translation>Nerasta tekstų</translation>
+        <translation type="vanished">Nerasta tekstų</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ImportMenu.qml" line="52"/>
         <source>New playlist</source>
-        <translation>Naujas grojaraštis</translation>
+        <translation type="vanished">Naujas grojaraštis</translation>
     </message>
 </context>
 <context>
     <name>LyricPage</name>
     <message>
-        <location filename="../src/music-player/lyric/LyricPage.qml" line="133"/>
         <source>Artist</source>
-        <translation>Atlikėjas</translation>
+        <translation type="vanished">Atlikėjas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/lyric/LyricPage.qml" line="141"/>
         <source>Album</source>
-        <translation>Albumas</translation>
+        <translation type="vanished">Albumas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/lyric/LyricPage.qml" line="179"/>
         <source>No lyrics found</source>
-        <translation>Įdėkite tekstų failą (tikslus vardas kaip daina) ir dainų failą į tą pačią aplanką</translation>
+        <translation type="vanished">Įdėkite tekstų failą (tikslus vardas kaip daina) ir dainų failą į tą pačią aplanką</translation>
     </message>
     <message>
-        <location filename="../src/music-player/lyric/LyricPage.qml" line="189"/>
         <source>Please put the lyric file (same name as the song) and the song file in the same folder</source>
-        <translation>Pridėta prie &quot;%1&quot;</translation>
+        <translation type="vanished">Pridėta prie &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="188"/>
         <source>Music</source>
-        <translation>Muzika</translation>
+        <translation type="vanished">Muzika</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="203"/>
         <source>Play/Pause</source>
-        <translation>Groti/Pristabdyti</translation>
+        <translation type="vanished">Groti/Pristabdyti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="207"/>
         <source>Previous</source>
-        <translation>Ankstesnis</translation>
+        <translation type="vanished">Ankstesnis</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="218"/>
         <source>Next</source>
-        <translation>Kitas</translation>
+        <translation type="vanished">Kitas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="229"/>
         <source>Exit</source>
-        <translation>Išeiti</translation>
+        <translation type="vanished">Išeiti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="343"/>
         <source>Already added to the playlist</source>
-        <translation>Jau pridėta į grojaraštį</translation>
+        <translation type="vanished">Jau pridėta į grojaraštį</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="346"/>
         <source>Added to &quot;%1&quot;</source>
-        <translation>Pašalinta iš &quot;Mano mėgstamiausi&quot;</translation>
+        <translation type="vanished">Pašalinta iš &quot;Mano mėgstamiausi&quot;</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="349"/>
         <source>Removed from &quot;My Favorites&quot;</source>
-        <translation>Įterptas diskas</translation>
+        <translation type="vanished">Įterptas diskas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="352"/>
         <source>A disc is connected</source>
-        <translation>Mano mėgstamiausi</translation>
+        <translation type="vanished">Mano mėgstamiausi</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="368"/>
         <source>My Favorites</source>
-        <translation>Visos dainos</translation>
+        <translation type="vanished">Visos dainos</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="390"/>
         <source>All Songs</source>
-        <translation>Pridėti prie</translation>
+        <translation type="vanished">Pridėti prie</translation>
     </message>
 </context>
 <context>
     <name>MulitSelectMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MulitSelectMenu.qml" line="19"/>
-        <source>Add to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/music-player/musicmousemenu/MulitSelectMenu.qml" line="28"/>
         <source>Remove from playlist</source>
-        <translation>Šalinti iš grojaraščio</translation>
+        <translation type="vanished">Šalinti iš grojaraščio</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MulitSelectMenu.qml" line="28"/>
         <source>Remove from play queue</source>
-        <translation>Pašalinkite iš grojimo eilės</translation>
+        <translation type="vanished">Pašalinkite iš grojimo eilės</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MulitSelectMenu.qml" line="35"/>
         <source>Delete from local disk</source>
-        <translation>Ištrinti iš vietinio disko</translation>
+        <translation type="vanished">Ištrinti iš vietinio disko</translation>
     </message>
 </context>
 <context>
     <name>MusicBaselistview</name>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="36"/>
         <source>Library</source>
-        <translation>Biblioteka</translation>
+        <translation type="vanished">Biblioteka</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="40"/>
         <source>Albums</source>
-        <translation>Albumai</translation>
+        <translation type="vanished">Albumai</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="41"/>
         <source>Artists</source>
-        <translation>Atlikėjai</translation>
+        <translation type="vanished">Atlikėjai</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="42"/>
         <source>All Songs</source>
-        <translation>Visi dainos</translation>
+        <translation type="vanished">Visi dainos</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="47"/>
         <source>Playlists</source>
-        <translation>Grojaraščiai</translation>
+        <translation type="vanished">Grojaraščiai</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="64"/>
         <source>Create playlist</source>
-        <translation>Kurti grojimo sąrašą</translation>
+        <translation type="vanished">Kurti grojimo sąrašą</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="66"/>
         <source>New playlist</source>
-        <translation>Naujas grojaraštis</translation>
+        <translation type="vanished">Naujas grojaraštis</translation>
     </message>
 </context>
 <context>
     <name>MusicContentWindow</name>
     <message>
-        <location filename="../src/music-player/mainwindow/MusicContentWindow.qml" line="22"/>
         <source>My Favorites</source>
-        <translation>Mano mėgstami</translation>
+        <translation type="vanished">Mano mėgstami</translation>
     </message>
 </context>
 <context>
     <name>MusicInfoDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="71"/>
         <source>Title</source>
-        <translation>Pavadinimas</translation>
+        <translation type="vanished">Pavadinimas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="80"/>
         <source>Artist</source>
-        <translation>Atlikėjas</translation>
+        <translation type="vanished">Atlikėjas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="86"/>
         <source>Album</source>
-        <translation>Albumas</translation>
+        <translation type="vanished">Albumas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="95"/>
         <source>Type</source>
-        <translation>Tipas</translation>
+        <translation type="vanished">Tipas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="101"/>
         <source>Size</source>
-        <translation>Dydis</translation>
+        <translation type="vanished">Dydis</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="107"/>
         <source>Duration</source>
-        <translation>Trukmė</translation>
+        <translation type="vanished">Trukmė</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="114"/>
         <source>Path</source>
-        <translation>Kelias</translation>
+        <translation type="vanished">Kelias</translation>
     </message>
 </context>
 <context>
     <name>MusicMoreMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="24"/>
         <source>Pause</source>
-        <translation>Pristabdyti</translation>
+        <translation type="vanished">Pristabdyti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="24"/>
         <source>Play</source>
-        <translation>Groti</translation>
+        <translation type="vanished">Groti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="44"/>
         <source>Add to</source>
-        <translation>Pridėti prie</translation>
+        <translation type="vanished">Pridėti prie</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="52"/>
         <source>Open in file manager</source>
-        <translation>Atverti failų tvarkytuvėje</translation>
+        <translation type="vanished">Atverti failų tvarkytuvėje</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="62"/>
         <source>Remove from playlist</source>
-        <translation>Šalinti iš grojaraščio</translation>
+        <translation type="vanished">Šalinti iš grojaraščio</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="62"/>
         <source>Remove from play queue</source>
-        <translation>Pašalinkite iš grojimo eilės</translation>
+        <translation type="vanished">Pašalinkite iš grojimo eilės</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="72"/>
         <source>Delete from local disk</source>
-        <translation>Ištrinti iš vietinio disko</translation>
+        <translation type="vanished">Ištrinti iš vietinio disko</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="79"/>
         <source>Encoding</source>
-        <translation>Koduotė</translation>
+        <translation type="vanished">Koduotė</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="104"/>
         <source>Song info</source>
-        <translation>Dainos informacija</translation>
+        <translation type="vanished">Dainos informacija</translation>
     </message>
 </context>
 <context>
@@ -913,160 +750,130 @@
 <context>
     <name>SearchResultDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/SearchResultDialog.qml" line="27"/>
         <source>Songs</source>
-        <translation>Dainos</translation>
+        <translation type="vanished">Dainos</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SearchResultDialog.qml" line="39"/>
         <source>Artists</source>
-        <translation>Atlikėjai</translation>
+        <translation type="vanished">Atlikėjai</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SearchResultDialog.qml" line="50"/>
         <source>Albums</source>
-        <translation>Albumai</translation>
+        <translation type="vanished">Albumai</translation>
     </message>
 </context>
 <context>
     <name>SearchResultWindow</name>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="55"/>
         <source>No search results</source>
-        <translation>Paieškos rezultatų nėra</translation>
+        <translation type="vanished">Paieškos rezultatų nėra</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="95"/>
         <source>Search Results</source>
-        <translation>Paieškos rezultatai</translation>
+        <translation type="vanished">Paieškos rezultatai</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="100"/>
         <source>%1 albums - %2 songs</source>
-        <translation>Albumų: %1 – Dainų: %2</translation>
+        <translation type="vanished">Albumų: %1 – Dainų: %2</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="101"/>
         <source>1 album - 1 song</source>
-        <translation>1 albumas – 1 daina</translation>
+        <translation type="vanished">1 albumas – 1 daina</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="101"/>
         <source>%1 album - %2 songs</source>
-        <translation>Albumų: %1 – Dainų: %2</translation>
+        <translation type="vanished">Albumų: %1 – Dainų: %2</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="120"/>
         <source>Music</source>
-        <translation>Muzika</translation>
+        <translation type="vanished">Muzika</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="128"/>
         <source>Artist</source>
-        <translation>Atlikėjas</translation>
+        <translation type="vanished">Atlikėjas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="124"/>
         <source>Album</source>
-        <translation>Albumas</translation>
+        <translation type="vanished">Albumas</translation>
     </message>
 </context>
 <context>
     <name>SettingsDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="30"/>
         <source>Basic</source>
-        <translation>Pagrindiniai</translation>
+        <translation type="vanished">Pagrindiniai</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="34"/>
         <source>Play</source>
-        <translation>Groti</translation>
+        <translation type="vanished">Groti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="42"/>
         <source>Autoplay</source>
-        <translation>Automatinis atkūrimas</translation>
+        <translation type="vanished">Automatinis atkūrimas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="53"/>
         <source>Remember playback position on exit</source>
-        <translation>Prisiminti grojimo poziciją išeinant</translation>
+        <translation type="vanished">Prisiminti grojimo poziciją išeinant</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="66"/>
         <source>Enable fade in/out</source>
-        <translation>Įjungti laipsnišką stiprėjimą/išnykimą</translation>
+        <translation type="vanished">Įjungti laipsnišką stiprėjimą/išnykimą</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="78"/>
         <source>Close Main Window</source>
-        <translation>Užverti pagrindinį langą</translation>
+        <translation type="vanished">Užverti pagrindinį langą</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="91"/>
         <source>Minimize to system tray</source>
-        <translation>Suskleisti į sistemos dėklą</translation>
+        <translation type="vanished">Suskleisti į sistemos dėklą</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="98"/>
         <source>Exit</source>
-        <translation>Išeiti</translation>
+        <translation type="vanished">Išeiti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="105"/>
         <source>Ask me always</source>
-        <translation>Visada klausti</translation>
+        <translation type="vanished">Visada klausti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="137"/>
         <source>Shortcuts</source>
-        <translation>Trumpiniai</translation>
+        <translation type="vanished">Trumpiniai</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="158"/>
         <source>Play/Pause</source>
-        <translation>Groti/Pristabdyti</translation>
+        <translation type="vanished">Groti/Pristabdyti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="201"/>
         <source>Previous</source>
-        <translation>Ankstesnis</translation>
+        <translation type="vanished">Ankstesnis</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="245"/>
         <source>Next</source>
-        <translation>Kitas</translation>
+        <translation type="vanished">Kitas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="290"/>
         <source>Volume up</source>
-        <translation>Garsinti</translation>
+        <translation type="vanished">Garsinti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="335"/>
         <source>Volume down</source>
-        <translation>Tildyti</translation>
+        <translation type="vanished">Tildyti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="379"/>
         <source>Favorite</source>
-        <translation>Mėgstama</translation>
+        <translation type="vanished">Mėgstama</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="501"/>
         <source>Cancel</source>
-        <translation>Atsisakyti</translation>
+        <translation type="vanished">Atsisakyti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="534"/>
         <source>Replace</source>
-        <translation>Pakeisti</translation>
+        <translation type="vanished">Pakeisti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="490"/>
         <source>This shortcut key conflicts with [%1], click Replace to make this shortcut key take effect immediately</source>
-        <translation>Šis trumpinys konfliktuoja su [%1], spustelėkite pakeisti, kad šis trumpinys būtų aktyvus nedelsiant</translation>
+        <translation type="vanished">Šis trumpinys konfliktuoja su [%1], spustelėkite pakeisti, kad šis trumpinys būtų aktyvus nedelsiant</translation>
     </message>
 </context>
 <context>
@@ -1170,217 +977,178 @@
 <context>
     <name>Shortcuts</name>
     <message>
-        <location filename="../src/music-player/allItems/Shortcuts.qml" line="51"/>
         <source>New playlist</source>
-        <translation>Naujas grojaraštis</translation>
+        <translation type="vanished">Naujas grojaraštis</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/Shortcuts.qml" line="120"/>
         <source>My Favorites</source>
-        <translation>Mano mėgstami</translation>
+        <translation type="vanished">Mano mėgstami</translation>
     </message>
 </context>
 <context>
     <name>SidebarMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/SidebarMenu.qml" line="22"/>
         <source>Play</source>
-        <translation>Groti</translation>
+        <translation type="vanished">Groti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/SidebarMenu.qml" line="29"/>
         <source>Add songs</source>
-        <translation>Pridėti dainas</translation>
+        <translation type="vanished">Pridėti dainas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/SidebarMenu.qml" line="38"/>
         <source>Rename</source>
-        <translation>Pervadinti</translation>
+        <translation type="vanished">Pervadinti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/SidebarMenu.qml" line="52"/>
         <source>Delete</source>
-        <translation>Ištrinti</translation>
+        <translation type="vanished">Ištrinti</translation>
     </message>
 </context>
 <context>
     <name>SortMenu</name>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="29"/>
         <source>CD playlist</source>
-        <translation>CD sąrašas</translation>
+        <translation type="vanished">CD sąrašas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="33"/>
         <source>Custom</source>
-        <translation>Pasirinktinas</translation>
+        <translation type="vanished">Pasirinktinas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="34"/>
         <source>Date added</source>
-        <translation>Data pridėjimo</translation>
+        <translation type="vanished">Data pridėjimo</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="37"/>
         <source>Album</source>
-        <translation>Albumas</translation>
+        <translation type="vanished">Albumas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="36"/>
         <source>Artist</source>
-        <translation>Atlikėjas</translation>
+        <translation type="vanished">Atlikėjas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="35"/>
         <source>Title</source>
-        <translation>Pavadinimas</translation>
+        <translation type="vanished">Pavadinimas</translation>
     </message>
 </context>
 <context>
     <name>SublistTitleButton</name>
     <message>
-        <location filename="../src/music-player/allItems/SublistTitleButton.qml" line="54"/>
         <source>1 song</source>
-        <translation>1 daina</translation>
+        <translation type="vanished">1 daina</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SublistTitleButton.qml" line="54"/>
         <source>%1 songs</source>
-        <translation>&apos;%1 dainos&apos;</translation>
+        <translation type="vanished">&apos;%1 dainos&apos;</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SublistTitleButton.qml" line="64"/>
         <source>Play All</source>
-        <translation>Groti visus</translation>
+        <translation type="vanished">Groti visus</translation>
     </message>
 </context>
 <context>
     <name>ToolButtonItem</name>
     <message>
-        <location filename="../src/music-player/allItems/ToolButtonItem.qml" line="59"/>
         <source>Play All</source>
-        <translation>Groti visus</translation>
+        <translation type="vanished">Groti visus</translation>
     </message>
 </context>
 <context>
     <name>Toolbar</name>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="43"/>
         <source>Sequential play</source>
-        <translation>Sekanti grojimas</translation>
+        <translation type="vanished">Sekanti grojimas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="43"/>
         <source>List loop</source>
-        <translation>Sąrašo ciklas</translation>
+        <translation type="vanished">Sąrašo ciklas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="43"/>
         <source>Single loop</source>
-        <translation>Vienas ciklas</translation>
+        <translation type="vanished">Vienas ciklas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="43"/>
         <source>Shuffle</source>
-        <translation>Maišyti</translation>
+        <translation type="vanished">Maišyti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="207"/>
         <source>Unfavorite</source>
-        <translation>Pašalinti iš mėgstamų</translation>
+        <translation type="vanished">Pašalinti iš mėgstamų</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="207"/>
         <source>Favorite</source>
-        <translation>Mėgstama</translation>
+        <translation type="vanished">Mėgstama</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="220"/>
         <source>My Favorites</source>
-        <translation>Mano mėgstami</translation>
+        <translation type="vanished">Mano mėgstami</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="238"/>
         <source>Previous</source>
-        <translation>Ankstesnis</translation>
+        <translation type="vanished">Ankstesnis</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="259"/>
         <source>Play/Pause</source>
-        <translation>Groti/Pristabdyti</translation>
+        <translation type="vanished">Groti/Pristabdyti</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="280"/>
         <source>Next</source>
-        <translation>Kitas</translation>
+        <translation type="vanished">Kitas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="389"/>
         <source>Lyrics</source>
-        <translation>Dainų žodžiai</translation>
+        <translation type="vanished">Dainų žodžiai</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="438"/>
         <source>Play Queue</source>
-        <translation>Grojimo eilė</translation>
+        <translation type="vanished">Grojimo eilė</translation>
     </message>
 </context>
 <context>
     <name>WindowTitlebar</name>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="56"/>
         <source>Add playlist</source>
-        <translation>Pridėti grojaraštį</translation>
+        <translation type="vanished">Pridėti grojaraštį</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="58"/>
         <source>New playlist</source>
-        <translation>Naujas grojaraštis</translation>
+        <translation type="vanished">Naujas grojaraštis</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="63"/>
         <source>Add music</source>
-        <translation>Pridėti muziką</translation>
+        <translation type="vanished">Pridėti muziką</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="71"/>
         <source>Equalizer</source>
-        <translation>Glodintuvas</translation>
+        <translation type="vanished">Glodintuvas</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="82"/>
         <source>Settings</source>
-        <translation>Nustatymai</translation>
+        <translation type="vanished">Nustatymai</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="96"/>
         <source>Music</source>
-        <translation>Muzika</translation>
+        <translation type="vanished">Muzika</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="98"/>
         <source>Music is a local music player with beautiful design and simple functions.</source>
-        <translation>Music yra vietinė muzikos plaustas su puikiu dizainu ir paprastomis funkcijomis.</translation>
+        <translation type="vanished">Music yra vietinė muzikos plaustas su puikiu dizainu ir paprastomis funkcijomis.</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="99"/>
         <source>Version:</source>
-        <translation>Versija:</translation>
+        <translation type="vanished">Versija:</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="213"/>
         <source>Previous page</source>
-        <translation>Ankstesnis puslapis</translation>
+        <translation type="vanished">Ankstesnis puslapis</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="229"/>
         <source>Next page</source>
-        <translation>Kitas puslapis</translation>
+        <translation type="vanished">Kitas puslapis</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="239"/>
         <source>Search</source>
-        <translation>Ieškoti</translation>
+        <translation type="vanished">Ieškoti</translation>
     </message>
 </context>
 </TS>

@@ -4,887 +4,732 @@
 <context>
     <name>AlbumDefaultPage</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumDefaultPage.qml" line="35"/>
         <source>Add Songs</source>
-        <translation>Προσθήκη τραγουδιών</translation>
+        <translation type="vanished">Προσθήκη τραγουδιών</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumDefaultPage.qml" line="43"/>
         <source>Open Folders</source>
-        <translation>Άνοιγμα φακέλων</translation>
+        <translation type="vanished">Άνοιγμα φακέλων</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumDefaultPage.qml" line="59"/>
         <source>Drag music files here or</source>
-        <translation>Κάντε σύρραξη αρχείων μουσικής εδώ ή</translation>
+        <translation type="vanished">Κάντε σύρραξη αρχείων μουσικής εδώ ή</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumDefaultPage.qml" line="63"/>
         <source> scan the Music directory</source>
-        <translation>αναζητήστε τον φάκελο Μουσικής</translation>
+        <translation type="vanished">αναζητήστε τον φάκελο Μουσικής</translation>
     </message>
 </context>
 <context>
     <name>AlbumGridDelegate</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumGridDelegate.qml" line="116"/>
         <source>1 song</source>
-        <translation>1 τραγούδι</translation>
+        <translation type="vanished">1 τραγούδι</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumGridDelegate.qml" line="116"/>
         <source>%1 songs</source>
-        <translation>%1 τραγούδια</translation>
+        <translation type="vanished">%1 τραγούδια</translation>
     </message>
 </context>
 <context>
     <name>AlbumListDelegate</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListDelegate.qml" line="107"/>
         <source>%1</source>
-        <translation>%1</translation>
+        <translation type="vanished">%1</translation>
     </message>
 </context>
 <context>
     <name>AlbumListView</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListView.qml" line="33"/>
         <source>Album</source>
-        <translation>Αλμπουμ</translation>
+        <translation type="vanished">Αλμπουμ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListView.qml" line="38"/>
         <source>Artist</source>
-        <translation>Καλλιτέχνης</translation>
+        <translation type="vanished">Καλλιτέχνης</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListView.qml" line="43"/>
         <source>Tracks</source>
-        <translation>Συνδέσμοι</translation>
+        <translation type="vanished">Συνδέσμοι</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumListView.qml" line="48"/>
         <source>Date added</source>
-        <translation>Ημερομηνία προσθήκης</translation>
+        <translation type="vanished">Ημερομηνία προσθήκης</translation>
     </message>
 </context>
 <context>
     <name>AlbumMoreMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/AlbumMoreMenu.qml" line="20"/>
         <source>View details</source>
-        <translation>Προβολή λεπτομερειών</translation>
+        <translation type="vanished">Προβολή λεπτομερειών</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/AlbumMoreMenu.qml" line="28"/>
         <source>Play all</source>
-        <translation>Αναπαραγωγή όλων</translation>
+        <translation type="vanished">Αναπαραγωγή όλων</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/AlbumMoreMenu.qml" line="37"/>
         <source>Add to</source>
-        <translation>Προσθήκη σε</translation>
+        <translation type="vanished">Προσθήκη σε</translation>
     </message>
 </context>
 <context>
     <name>AlbumSublist</name>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublist.qml" line="36"/>
         <source>Title</source>
-        <translation>Τίτλος</translation>
+        <translation type="vanished">Τίτλος</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublist.qml" line="41"/>
         <source>Artist</source>
-        <translation>Καλλιτέχνης</translation>
+        <translation type="vanished">Καλλιτέχνης</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublist.qml" line="46"/>
         <source>Duration</source>
-        <translation>Διάρκεια</translation>
+        <translation type="vanished">Διάρκεια</translation>
     </message>
 </context>
 <context>
     <name>AlbumSublistDelegate</name>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublistDelegate.qml" line="147"/>
         <source>My Favorites</source>
-        <translation>Αγαπημένα μου</translation>
+        <translation type="vanished">Αγαπημένα μου</translation>
     </message>
 </context>
 <context>
     <name>AlbumSublistView</name>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublistView.qml" line="55"/>
         <source>Title</source>
-        <translation>Τίτλος</translation>
+        <translation type="vanished">Τίτλος</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublistView.qml" line="60"/>
         <source>Artist</source>
-        <translation>Καλλιτέχνης</translation>
+        <translation type="vanished">Καλλιτέχνης</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/AlbumSublistView.qml" line="66"/>
         <source>Duration</source>
-        <translation>Διάρκεια</translation>
+        <translation type="vanished">Διάρκεια</translation>
     </message>
 </context>
 <context>
     <name>AlbumView</name>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumView.qml" line="54"/>
         <source>Albums</source>
-        <translation>Άλμπουμ</translation>
+        <translation type="vanished">Άλμπουμ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/albumlist/AlbumView.qml" line="55"/>
         <source>%1 albums - %2 songs</source>
-        <translation>%1 άλμπουμ - %2 τραγούδια</translation>
+        <translation type="vanished">%1 άλμπουμ - %2 τραγούδια</translation>
     </message>
 </context>
 <context>
     <name>AllMusicDefaultPage</name>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="42"/>
         <source>Add Songs</source>
-        <translation>Προσθήκη τραγουδιών</translation>
+        <translation type="vanished">Προσθήκη τραγουδιών</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="50"/>
         <source>Open Folders</source>
-        <translation>Άνοιγμα φακέλων</translation>
+        <translation type="vanished">Άνοιγμα φακέλων</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="65"/>
         <source>Drag music files here or</source>
-        <translation>Κάντε σύρραξη αρχείων μουσικής εδώ ή</translation>
+        <translation type="vanished">Κάντε σύρραξη αρχείων μουσικής εδώ ή</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="99"/>
         <source>Your favorite songs will be displayed here</source>
-        <translation>Τα προτιμημένα σας τραγούδια θα εμφανιστούν εδώ</translation>
+        <translation type="vanished">Τα προτιμημένα σας τραγούδια θα εμφανιστούν εδώ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="111"/>
         <source>Click “</source>
-        <translation>Κάντε κλικ στο “</translation>
+        <translation type="vanished">Κάντε κλικ στο “</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="122"/>
         <source>” to add a song to My Favorites</source>
-        <translation>” για να προσθέσετε ένα τραγούδι στα Προτιμημένα Μου</translation>
+        <translation type="vanished">” για να προσθέσετε ένα τραγούδι στα Προτιμημένα Μου</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="157"/>
         <source>No songs yet. Click “</source>
-        <translation>Δεν υπάρχουν ακόμα τραγούδια. Κάντε κλικ στο “</translation>
+        <translation type="vanished">Δεν υπάρχουν ακόμα τραγούδια. Κάντε κλικ στο “</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="168"/>
         <source>” to add songs to the playlist</source>
-        <translation>” για να προσθέσετε τραγούδια στην κατάσταση αναπαραγωγής</translation>
+        <translation type="vanished">” για να προσθέσετε τραγούδια στην κατάσταση αναπαραγωγής</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicDefaultPage.qml" line="69"/>
         <source> scan the Music directory</source>
-        <translation>αναζητήστε τον φάκελο Μουσικής</translation>
+        <translation type="vanished">αναζητήστε τον φάκελο Μουσικής</translation>
     </message>
 </context>
 <context>
     <name>AllMusicList</name>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicList.qml" line="17"/>
         <source>All Songs</source>
-        <translation>Όλα τα τραγούδια</translation>
+        <translation type="vanished">Όλα τα τραγούδια</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicList.qml" line="30"/>
         <source>1 song</source>
-        <translation>1 τραγούδι</translation>
+        <translation type="vanished">1 τραγούδι</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicList.qml" line="30"/>
         <source>%1 songs</source>
-        <translation>%1 τραγούδια</translation>
+        <translation type="vanished">%1 τραγούδια</translation>
     </message>
 </context>
 <context>
     <name>AllMusicListDelegate</name>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListDelegate.qml" line="212"/>
         <source>My Favorites</source>
-        <translation>Αγαπημένα μου</translation>
+        <translation type="vanished">Αγαπημένα μου</translation>
     </message>
 </context>
 <context>
     <name>AllMusicListView</name>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListView.qml" line="38"/>
         <source>Title</source>
-        <translation>Τίτλος</translation>
+        <translation type="vanished">Τίτλος</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListView.qml" line="44"/>
         <source>Artist</source>
-        <translation>Καλλιτέχνης</translation>
+        <translation type="vanished">Καλλιτέχνης</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListView.qml" line="49"/>
         <source>Album</source>
-        <translation>Αλμπουμ</translation>
+        <translation type="vanished">Αλμπουμ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicList/AllMusicListView.qml" line="54"/>
         <source>Duration</source>
-        <translation>Διάρκεια</translation>
+        <translation type="vanished">Διάρκεια</translation>
     </message>
 </context>
 <context>
     <name>ArtistDefaultPage</name>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistDefaultPage.qml" line="36"/>
         <source>Add Songs</source>
-        <translation>Προσθήκη τραγουδιών</translation>
+        <translation type="vanished">Προσθήκη τραγουδιών</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistDefaultPage.qml" line="44"/>
         <source>Open Folders</source>
-        <translation>Άνοιγμα φακέλων</translation>
+        <translation type="vanished">Άνοιγμα φακέλων</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistDefaultPage.qml" line="60"/>
         <source>Drag music files here or</source>
-        <translation>Κάντε σύρραξη αρχείων μουσικής εδώ ή</translation>
+        <translation type="vanished">Κάντε σύρραξη αρχείων μουσικής εδώ ή</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistDefaultPage.qml" line="64"/>
         <source> scan the Music directory</source>
-        <translation>αναζητήστε τον φάκελο Μουσικής</translation>
+        <translation type="vanished">αναζητήστε τον φάκελο Μουσικής</translation>
     </message>
 </context>
 <context>
     <name>ArtistGridDelegate</name>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistGridDelegate.qml" line="149"/>
         <source>1 song</source>
-        <translation>1 τραγούδι</translation>
+        <translation type="vanished">1 τραγούδι</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistGridDelegate.qml" line="149"/>
         <source>%1 songs</source>
-        <translation>%1 τραγούδια</translation>
+        <translation type="vanished">%1 τραγούδια</translation>
     </message>
 </context>
 <context>
     <name>ArtistMoreMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ArtistMoreMenu.qml" line="18"/>
         <source>View details</source>
-        <translation>Προβολή λεπτομερειών</translation>
+        <translation type="vanished">Προβολή λεπτομερειών</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ArtistMoreMenu.qml" line="26"/>
         <source>Play all</source>
-        <translation>Αναπαραγωγή όλων</translation>
+        <translation type="vanished">Αναπαραγωγή όλων</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ArtistMoreMenu.qml" line="35"/>
         <source>Add to</source>
-        <translation>Προσθήκη σε</translation>
+        <translation type="vanished">Προσθήκη σε</translation>
     </message>
 </context>
 <context>
     <name>ArtistSublistDelegate</name>
     <message>
-        <location filename="../src/music-player/musicsublist/ArtistSublistDelegate.qml" line="102"/>
         <source>My Favorites</source>
-        <translation>Αγαπημένα μου</translation>
+        <translation type="vanished">Αγαπημένα μου</translation>
     </message>
 </context>
 <context>
     <name>ArtistSublistView</name>
     <message>
-        <location filename="../src/music-player/musicsublist/ArtistSublistView.qml" line="59"/>
         <source>Title</source>
-        <translation>Τίτλος</translation>
+        <translation type="vanished">Τίτλος</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/ArtistSublistView.qml" line="65"/>
         <source>Album</source>
-        <translation>Αλμπουμ</translation>
+        <translation type="vanished">Αλμπουμ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicsublist/ArtistSublistView.qml" line="70"/>
         <source>Duration</source>
-        <translation>Διάρκεια</translation>
+        <translation type="vanished">Διάρκεια</translation>
     </message>
 </context>
 <context>
     <name>ArtistView</name>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistView.qml" line="54"/>
         <source>Artists</source>
-        <translation>Καλλιτέχνες</translation>
+        <translation type="vanished">Καλλιτέχνες</translation>
     </message>
     <message>
-        <location filename="../src/music-player/singerlist/ArtistView.qml" line="55"/>
         <source>%1 artists - %2 songs</source>
-        <translation>%1 καλλιτέχνες - %2 τραγούδια</translation>
+        <translation type="vanished">%1 καλλιτέχνες - %2 τραγούδια</translation>
     </message>
 </context>
 <context>
     <name>CDRemovedDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/CDRemovedDialog.qml" line="32"/>
         <source>The CD has been removed</source>
-        <translation>Το δίσκος έχει αφαιρεθεί</translation>
+        <translation type="vanished">Το δίσκος έχει αφαιρεθεί</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CDRemovedDialog.qml" line="36"/>
         <source>Cancel</source>
-        <translation>Ακύρωση</translation>
+        <translation type="vanished">Ακύρωση</translation>
     </message>
 </context>
 <context>
     <name>CloseConfirmDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="36"/>
         <source>Please choose your action</source>
-        <translation>Παρακαλώ επιλέξτε την ενέργειά σας</translation>
+        <translation type="vanished">Παρακαλώ επιλέξτε την ενέργειά σας</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="50"/>
         <source>Minimize to system tray</source>
-        <translation>Ελαχιστοποίηση στη γραμμή εργασιών</translation>
+        <translation type="vanished">Ελαχιστοποίηση στη γραμμή εργασιών</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="62"/>
         <source>Exit</source>
-        <translation>Έξοδος</translation>
+        <translation type="vanished">Έξοδος</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="73"/>
         <source>Do not ask again</source>
-        <translation>Μην ερωτήσεις ξανά</translation>
+        <translation type="vanished">Μην ερωτήσεις ξανά</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="90"/>
         <source>Cancel</source>
-        <translation>Ακύρωση</translation>
+        <translation type="vanished">Ακύρωση</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/CloseConfirmDialog.qml" line="98"/>
         <source>Confirm</source>
-        <translation>Επιβεβαίωση</translation>
+        <translation type="vanished">Επιβεβαίωση</translation>
     </message>
 </context>
 <context>
     <name>CurrentPlayList</name>
     <message>
-        <location filename="../src/music-player/playlist/CurrentPlayList.qml" line="97"/>
         <source>Play queue</source>
-        <translation>Σειρά αναπαραγωγής</translation>
+        <translation type="vanished">Σειρά αναπαραγωγής</translation>
     </message>
     <message>
-        <location filename="../src/music-player/playlist/CurrentPlayList.qml" line="114"/>
         <source>1 song</source>
-        <translation>1 τραγούδι</translation>
+        <translation type="vanished">1 τραγούδι</translation>
     </message>
     <message>
-        <location filename="../src/music-player/playlist/CurrentPlayList.qml" line="114"/>
         <source>%1 songs</source>
-        <translation>%1 τραγούδια</translation>
+        <translation type="vanished">%1 τραγούδια</translation>
     </message>
     <message>
-        <location filename="../src/music-player/playlist/CurrentPlayList.qml" line="128"/>
         <source>Empty</source>
-        <translation>Κενό</translation>
+        <translation type="vanished">Κενό</translation>
     </message>
 </context>
 <context>
     <name>CurrentPlayListDelegate</name>
     <message>
-        <location filename="../src/music-player/playlist/CurrentPlayListDelegate.qml" line="123"/>
         <source>My Favorites</source>
-        <translation>Αγαπημένα μου</translation>
+        <translation type="vanished">Αγαπημένα μου</translation>
     </message>
 </context>
 <context>
     <name>CustomPlaylistModel</name>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/CustomPlaylistModel.qml" line="23"/>
         <source>My Favorites</source>
-        <translation>Αγαπημένα μου</translation>
+        <translation type="vanished">Αγαπημένα μου</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/CustomPlaylistModel.qml" line="80"/>
         <source>CD playlist</source>
-        <translation>Προσωρινή λίστα CD</translation>
+        <translation type="vanished">Προσωρινή λίστα CD</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/CustomPlaylistModel.qml" line="86"/>
         <source>CD</source>
-        <translation>CD</translation>
+        <translation type="vanished">CD</translation>
     </message>
 </context>
 <context>
     <name>DeleteLocalDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="34"/>
         <source>Are you sure you want to delete %1?</source>
-        <translation>Είστε βέβαιος ότι θέλετε να διαγράψετε %1;</translation>
+        <translation type="vanished">Είστε βέβαιος ότι θέλετε να διαγράψετε %1;</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="36"/>
         <source>Are you sure you want to delete the selected %1 songs?</source>
-        <translation>Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτό το %1 τραγουδιών;</translation>
+        <translation type="vanished">Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτό το %1 τραγουδιών;</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="45"/>
         <source>The song files contained will also be deleted</source>
-        <translation>Τα αρχεία τραγουδιών που περιέχονται θα διαγραφούν επίσης</translation>
+        <translation type="vanished">Τα αρχεία τραγουδιών που περιέχονται θα διαγραφούν επίσης</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="53"/>
         <source>Delete</source>
-        <translation>Διαγραφή</translation>
+        <translation type="vanished">Διαγραφή</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteLocalDialog.qml" line="65"/>
         <source>Cancel</source>
-        <translation>Ακύρωση</translation>
+        <translation type="vanished">Ακύρωση</translation>
     </message>
 </context>
 <context>
     <name>DeleteSonglistDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="41"/>
         <source>Are you sure you want to remove %1?</source>
-        <translation>Είστε σίγουροι ότι θέλετε να αφαιρέσετε το %1;</translation>
+        <translation type="vanished">Είστε σίγουροι ότι θέλετε να αφαιρέσετε το %1;</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="43"/>
         <source>Are you sure you want to remove the selected %1 songs?</source>
-        <translation>Είστε σίγουροι ότι θέλετε να αφαιρέσετε τα επιλεγμένα %1 τραγούδια;</translation>
+        <translation type="vanished">Είστε σίγουροι ότι θέλετε να αφαιρέσετε τα επιλεγμένα %1 τραγούδια;</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="45"/>
         <source>Are you sure you want to delete this playlist?</source>
-        <translation>Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την αναπαραγωγή;</translation>
+        <translation type="vanished">Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την αναπαραγωγή;</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="55"/>
         <source>Remove</source>
-        <translation>Αφαίρεση</translation>
+        <translation type="vanished">Αφαίρεση</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="55"/>
         <source>Delete</source>
-        <translation>Διαγραφή</translation>
+        <translation type="vanished">Διαγραφή</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/DeleteSonglistDialog.qml" line="70"/>
         <source>Cancel</source>
-        <translation>Ακύρωση</translation>
+        <translation type="vanished">Ακύρωση</translation>
     </message>
 </context>
 <context>
     <name>EqualizerDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="14"/>
         <source>Custom</source>
-        <translation>Προσαρμογή</translation>
+        <translation type="vanished">Προσαρμογή</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="15"/>
         <source>Monophony</source>
-        <translation>Μονόφωνο</translation>
+        <translation type="vanished">Μονόφωνο</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="16"/>
         <source>Classical</source>
-        <translation>Κλασσική</translation>
+        <translation type="vanished">Κλασσική</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="17"/>
         <source>Club</source>
-        <translation>Κλαμπ</translation>
+        <translation type="vanished">Κλαμπ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="18"/>
         <source>Dance</source>
-        <translation>Χορευτική</translation>
+        <translation type="vanished">Χορευτική</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="19"/>
         <source>Full Bass</source>
-        <translation>Πλήρη Μπάσα</translation>
+        <translation type="vanished">Πλήρη Μπάσα</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="20"/>
         <source>Full Bass and Treble</source>
-        <translation>Πλήρη Μπάσα και Υψηλά</translation>
+        <translation type="vanished">Πλήρη Μπάσα και Υψηλά</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="21"/>
         <source>Full Treble</source>
-        <translation>Πλήρη Υψηλά</translation>
+        <translation type="vanished">Πλήρη Υψηλά</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="22"/>
         <source>Headphones</source>
-        <translation>Ακουστικά</translation>
+        <translation type="vanished">Ακουστικά</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="23"/>
         <source>Hall</source>
-        <translation>Θέατρο</translation>
+        <translation type="vanished">Θέατρο</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="24"/>
         <source>Live</source>
-        <translation>Ζωντανά</translation>
+        <translation type="vanished">Ζωντανά</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="25"/>
         <source>Party</source>
-        <translation>Πάρτι</translation>
+        <translation type="vanished">Πάρτι</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="26"/>
         <source>Pop</source>
-        <translation>Ποπ</translation>
+        <translation type="vanished">Ποπ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="27"/>
         <source>Reggae</source>
-        <translation>Ρέγκε</translation>
+        <translation type="vanished">Ρέγκε</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="28"/>
         <source>Rock</source>
-        <translation>Ροκ</translation>
+        <translation type="vanished">Ροκ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="29"/>
         <source>Ska</source>
-        <translation>Σκα</translation>
+        <translation type="vanished">Σκα</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="30"/>
         <source>Soft</source>
-        <translation>Μαλακή</translation>
+        <translation type="vanished">Μαλακή</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="31"/>
         <source>Soft Rock</source>
-        <translation>Μαλακή Ροκ</translation>
+        <translation type="vanished">Μαλακή Ροκ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="32"/>
         <source>Techno</source>
-        <translation>Τεχνο</translation>
+        <translation type="vanished">Τεχνο</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="106"/>
         <source>Equalizer</source>
-        <translation>Ισοσταθμιστής</translation>
+        <translation type="vanished">Ισοσταθμιστής</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="182"/>
         <source>Save</source>
-        <translation>Αποθήκευση</translation>
+        <translation type="vanished">Αποθήκευση</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="205"/>
         <source>Reset</source>
-        <translation>Επαναφορά</translation>
+        <translation type="vanished">Επαναφορά</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/EqualizerDialog.qml" line="314"/>
         <source>Preamplifier</source>
-        <translation>Προενισχυτής</translation>
+        <translation type="vanished">Προενισχυτής</translation>
     </message>
 </context>
 <context>
     <name>FileDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/FileDialog.qml" line="15"/>
         <source>All Music</source>
-        <translation>Όλα τα μουσικά</translation>
+        <translation type="vanished">Όλα τα μουσικά</translation>
     </message>
 </context>
 <context>
     <name>ImportFailedDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/ImportFailedDialog.qml" line="32"/>
         <source>Import failed, no valid music file found</source>
-        <translation>Η εισαγωγή απέτυχε, δεν βρέθηκε έγκυρο μουσικό αρχείο</translation>
+        <translation type="vanished">Η εισαγωγή απέτυχε, δεν βρέθηκε έγκυρο μουσικό αρχείο</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/ImportFailedDialog.qml" line="36"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
 </context>
 <context>
     <name>ImportMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ImportMenu.qml" line="25"/>
         <source>Play queue</source>
-        <translation>Σειρά αναπαραγωγής</translation>
+        <translation type="vanished">Σειρά αναπαραγωγής</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ImportMenu.qml" line="40"/>
         <source>My favorites</source>
-        <translation>Τα αγαπημένα μου</translation>
+        <translation type="vanished">Τα αγαπημένα μου</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ImportMenu.qml" line="49"/>
         <source>Create new playlist</source>
-        <translation>Δημιουργία νέας αναπαραγωγής</translation>
+        <translation type="vanished">Δημιουργία νέας αναπαραγωγής</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/ImportMenu.qml" line="52"/>
         <source>New playlist</source>
-        <translation>Νέα λίστα αναπαραγωγής</translation>
+        <translation type="vanished">Νέα λίστα αναπαραγωγής</translation>
     </message>
 </context>
 <context>
     <name>LyricPage</name>
     <message>
-        <location filename="../src/music-player/lyric/LyricPage.qml" line="133"/>
         <source>Artist</source>
-        <translation>Καλλιτέχνης</translation>
+        <translation type="vanished">Καλλιτέχνης</translation>
     </message>
     <message>
-        <location filename="../src/music-player/lyric/LyricPage.qml" line="141"/>
         <source>Album</source>
-        <translation>Αλμπουμ</translation>
+        <translation type="vanished">Αλμπουμ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/lyric/LyricPage.qml" line="179"/>
         <source>No lyrics found</source>
-        <translation>Δεν βρέθηκαν λεκτικά</translation>
+        <translation type="vanished">Δεν βρέθηκαν λεκτικά</translation>
     </message>
     <message>
-        <location filename="../src/music-player/lyric/LyricPage.qml" line="189"/>
         <source>Please put the lyric file (same name as the song) and the song file in the same folder</source>
-        <translation>Παρακαλώ τοτε το αρχείο λεκτικών (ίδιο όνομα με το τραγούδι) και το αρχείο τραγουδιού στο ίδιο φάκελο</translation>
+        <translation type="vanished">Παρακαλώ τοτε το αρχείο λεκτικών (ίδιο όνομα με το τραγούδι) και το αρχείο τραγουδιού στο ίδιο φάκελο</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="188"/>
         <source>Music</source>
-        <translation>Μουσική</translation>
+        <translation type="vanished">Μουσική</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="203"/>
         <source>Play/Pause</source>
-        <translation>Αναπαραγωγή/Παύση</translation>
+        <translation type="vanished">Αναπαραγωγή/Παύση</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="207"/>
         <source>Previous</source>
-        <translation>Προηγούμενο</translation>
+        <translation type="vanished">Προηγούμενο</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="218"/>
         <source>Next</source>
-        <translation>Επόμενο</translation>
+        <translation type="vanished">Επόμενο</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="229"/>
         <source>Exit</source>
-        <translation>Έξοδος</translation>
+        <translation type="vanished">Έξοδος</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="343"/>
         <source>Already added to the playlist</source>
-        <translation>Ήδη προστέθηκε στην αναπαραγωγή</translation>
+        <translation type="vanished">Ήδη προστέθηκε στην αναπαραγωγή</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="346"/>
         <source>Added to &quot;%1&quot;</source>
-        <translation>Προστέθηκε στο &quot;%1&quot;</translation>
+        <translation type="vanished">Προστέθηκε στο &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="349"/>
         <source>Removed from &quot;My Favorites&quot;</source>
-        <translation>Αφαιρέθηκε από το &quot;Προτιμήσεις μου&quot;</translation>
+        <translation type="vanished">Αφαιρέθηκε από το &quot;Προτιμήσεις μου&quot;</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="352"/>
         <source>A disc is connected</source>
-        <translation>Ένας δίσκος συνδέθηκε</translation>
+        <translation type="vanished">Ένας δίσκος συνδέθηκε</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="368"/>
         <source>My Favorites</source>
-        <translation>Αγαπημένα μου</translation>
+        <translation type="vanished">Αγαπημένα μου</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/MainWindow.qml" line="390"/>
         <source>All Songs</source>
-        <translation>Όλα τα τραγούδια</translation>
+        <translation type="vanished">Όλα τα τραγούδια</translation>
     </message>
 </context>
 <context>
     <name>MulitSelectMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MulitSelectMenu.qml" line="19"/>
         <source>Add to</source>
-        <translation>Προσθήκη σε</translation>
+        <translation type="vanished">Προσθήκη σε</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MulitSelectMenu.qml" line="28"/>
         <source>Remove from playlist</source>
-        <translation>Αφαίρεση από τη λίστα αναπαραγωγής</translation>
+        <translation type="vanished">Αφαίρεση από τη λίστα αναπαραγωγής</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MulitSelectMenu.qml" line="28"/>
         <source>Remove from play queue</source>
-        <translation>Αφαίρεση από τη σειρά αναπαραγωγής</translation>
+        <translation type="vanished">Αφαίρεση από τη σειρά αναπαραγωγής</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MulitSelectMenu.qml" line="35"/>
         <source>Delete from local disk</source>
-        <translation>Διαγραφή από τον τοπικό δίσκο</translation>
+        <translation type="vanished">Διαγραφή από τον τοπικό δίσκο</translation>
     </message>
 </context>
 <context>
     <name>MusicBaselistview</name>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="36"/>
         <source>Library</source>
-        <translation>Βιβλιοθήκη</translation>
+        <translation type="vanished">Βιβλιοθήκη</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="40"/>
         <source>Albums</source>
-        <translation>Άλμπουμ</translation>
+        <translation type="vanished">Άλμπουμ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="41"/>
         <source>Artists</source>
-        <translation>Καλλιτέχνες</translation>
+        <translation type="vanished">Καλλιτέχνες</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="42"/>
         <source>All Songs</source>
-        <translation>Όλα τα τραγούδια</translation>
+        <translation type="vanished">Όλα τα τραγούδια</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="47"/>
         <source>Playlists</source>
-        <translation>Αναπαραγωγές</translation>
+        <translation type="vanished">Αναπαραγωγές</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="64"/>
         <source>Create playlist</source>
-        <translation>Δημιουργία αναπαραγωγής</translation>
+        <translation type="vanished">Δημιουργία αναπαραγωγής</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicbaseandsonglist/MusicBaselistview.qml" line="66"/>
         <source>New playlist</source>
-        <translation>Νέα λίστα αναπαραγωγής</translation>
+        <translation type="vanished">Νέα λίστα αναπαραγωγής</translation>
     </message>
 </context>
 <context>
     <name>MusicContentWindow</name>
     <message>
-        <location filename="../src/music-player/mainwindow/MusicContentWindow.qml" line="22"/>
         <source>My Favorites</source>
-        <translation>Αγαπημένα μου</translation>
+        <translation type="vanished">Αγαπημένα μου</translation>
     </message>
 </context>
 <context>
     <name>MusicInfoDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="71"/>
         <source>Title</source>
-        <translation>Τίτλος</translation>
+        <translation type="vanished">Τίτλος</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="80"/>
         <source>Artist</source>
-        <translation>Καλλιτέχνης</translation>
+        <translation type="vanished">Καλλιτέχνης</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="86"/>
         <source>Album</source>
-        <translation>Αλμπουμ</translation>
+        <translation type="vanished">Αλμπουμ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="95"/>
         <source>Type</source>
-        <translation>Τύπος</translation>
+        <translation type="vanished">Τύπος</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="101"/>
         <source>Size</source>
-        <translation>Μέγεθος</translation>
+        <translation type="vanished">Μέγεθος</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="107"/>
         <source>Duration</source>
-        <translation>Διάρκεια</translation>
+        <translation type="vanished">Διάρκεια</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/MusicInfoDialog.qml" line="114"/>
         <source>Path</source>
-        <translation>Διαδρομή</translation>
+        <translation type="vanished">Διαδρομή</translation>
     </message>
 </context>
 <context>
     <name>MusicMoreMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="24"/>
         <source>Pause</source>
-        <translation>Παύση</translation>
+        <translation type="vanished">Παύση</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="24"/>
         <source>Play</source>
-        <translation>Αναπαραγωγή</translation>
+        <translation type="vanished">Αναπαραγωγή</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="44"/>
         <source>Add to</source>
-        <translation>Προσθήκη σε</translation>
+        <translation type="vanished">Προσθήκη σε</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="52"/>
         <source>Open in file manager</source>
-        <translation>Άνοιγμα στη διαχείριση αρχείων</translation>
+        <translation type="vanished">Άνοιγμα στη διαχείριση αρχείων</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="62"/>
         <source>Remove from playlist</source>
-        <translation>Αφαίρεση από τη λίστα αναπαραγωγής</translation>
+        <translation type="vanished">Αφαίρεση από τη λίστα αναπαραγωγής</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="62"/>
         <source>Remove from play queue</source>
-        <translation>Αφαίρεση από τη σειρά αναπαραγωγής</translation>
+        <translation type="vanished">Αφαίρεση από τη σειρά αναπαραγωγής</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="72"/>
         <source>Delete from local disk</source>
-        <translation>Διαγραφή από τον τοπικό δίσκο</translation>
+        <translation type="vanished">Διαγραφή από τον τοπικό δίσκο</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="79"/>
         <source>Encoding</source>
-        <translation>Κωδικοποίηση</translation>
+        <translation type="vanished">Κωδικοποίηση</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/MusicMoreMenu.qml" line="104"/>
         <source>Song info</source>
-        <translation>Πληροφορίες τραγουδιού</translation>
+        <translation type="vanished">Πληροφορίες τραγουδιού</translation>
     </message>
 </context>
 <context>
@@ -913,160 +758,130 @@
 <context>
     <name>SearchResultDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/SearchResultDialog.qml" line="27"/>
         <source>Songs</source>
-        <translation>Τραγούδια</translation>
+        <translation type="vanished">Τραγούδια</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SearchResultDialog.qml" line="39"/>
         <source>Artists</source>
-        <translation>Καλλιτέχνες</translation>
+        <translation type="vanished">Καλλιτέχνες</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SearchResultDialog.qml" line="50"/>
         <source>Albums</source>
-        <translation>Άλμπουμ</translation>
+        <translation type="vanished">Άλμπουμ</translation>
     </message>
 </context>
 <context>
     <name>SearchResultWindow</name>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="55"/>
         <source>No search results</source>
-        <translation>Χωρίς αποτελέσματα αναζήτησης</translation>
+        <translation type="vanished">Χωρίς αποτελέσματα αναζήτησης</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="95"/>
         <source>Search Results</source>
-        <translation>Αποτελέσματα Αναζήτησης</translation>
+        <translation type="vanished">Αποτελέσματα Αναζήτησης</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="100"/>
         <source>%1 albums - %2 songs</source>
-        <translation>%1 άλμπουμ - %2 τραγούδια</translation>
+        <translation type="vanished">%1 άλμπουμ - %2 τραγούδια</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="101"/>
         <source>1 album - 1 song</source>
-        <translation>1 άλμπουμ - 1 τραγούδι</translation>
+        <translation type="vanished">1 άλμπουμ - 1 τραγούδι</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="101"/>
         <source>%1 album - %2 songs</source>
-        <translation>%1 άλμπουμ - %2 τραγούδια</translation>
+        <translation type="vanished">%1 άλμπουμ - %2 τραγούδια</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="120"/>
         <source>Music</source>
-        <translation>Μουσική</translation>
+        <translation type="vanished">Μουσική</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="128"/>
         <source>Artist</source>
-        <translation>Καλλιτέχνης</translation>
+        <translation type="vanished">Καλλιτέχνης</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/SearchResultWindow.qml" line="124"/>
         <source>Album</source>
-        <translation>Αλμπουμ</translation>
+        <translation type="vanished">Αλμπουμ</translation>
     </message>
 </context>
 <context>
     <name>SettingsDialog</name>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="30"/>
         <source>Basic</source>
-        <translation>Βασικές</translation>
+        <translation type="vanished">Βασικές</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="34"/>
         <source>Play</source>
-        <translation>Αναπαραγωγή</translation>
+        <translation type="vanished">Αναπαραγωγή</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="42"/>
         <source>Autoplay</source>
-        <translation>Αυτόματη αναπαραγωγή</translation>
+        <translation type="vanished">Αυτόματη αναπαραγωγή</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="53"/>
         <source>Remember playback position on exit</source>
-        <translation>Να θυμάται τη θέση αναπαραγωγής κατά την έξοδο</translation>
+        <translation type="vanished">Να θυμάται τη θέση αναπαραγωγής κατά την έξοδο</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="66"/>
         <source>Enable fade in/out</source>
-        <translation>Ενεργοποίηση αποσβεστικής εισόδου/εξόδου</translation>
+        <translation type="vanished">Ενεργοποίηση αποσβεστικής εισόδου/εξόδου</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="78"/>
         <source>Close Main Window</source>
-        <translation>Κλείσιμο κύριου παραθύρου</translation>
+        <translation type="vanished">Κλείσιμο κύριου παραθύρου</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="91"/>
         <source>Minimize to system tray</source>
-        <translation>Ελαχιστοποίηση στη γραμμή εργασιών</translation>
+        <translation type="vanished">Ελαχιστοποίηση στη γραμμή εργασιών</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="98"/>
         <source>Exit</source>
-        <translation>Έξοδος</translation>
+        <translation type="vanished">Έξοδος</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="105"/>
         <source>Ask me always</source>
-        <translation>Πάντα να γίνεται ερώτηση</translation>
+        <translation type="vanished">Πάντα να γίνεται ερώτηση</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="137"/>
         <source>Shortcuts</source>
-        <translation>Συντομεύσεις</translation>
+        <translation type="vanished">Συντομεύσεις</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="158"/>
         <source>Play/Pause</source>
-        <translation>Αναπαραγωγή/Παύση</translation>
+        <translation type="vanished">Αναπαραγωγή/Παύση</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="201"/>
         <source>Previous</source>
-        <translation>Προηγούμενο</translation>
+        <translation type="vanished">Προηγούμενο</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="245"/>
         <source>Next</source>
-        <translation>Επόμενο</translation>
+        <translation type="vanished">Επόμενο</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="290"/>
         <source>Volume up</source>
-        <translation>Αύξηση έντασης</translation>
+        <translation type="vanished">Αύξηση έντασης</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="335"/>
         <source>Volume down</source>
-        <translation>Μείωση έντασης</translation>
+        <translation type="vanished">Μείωση έντασης</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="379"/>
         <source>Favorite</source>
-        <translation>Αγαπημένα</translation>
+        <translation type="vanished">Αγαπημένα</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="501"/>
         <source>Cancel</source>
-        <translation>Ακύρωση</translation>
+        <translation type="vanished">Ακύρωση</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="534"/>
         <source>Replace</source>
-        <translation>Αντικατάσταση</translation>
+        <translation type="vanished">Αντικατάσταση</translation>
     </message>
     <message>
-        <location filename="../src/music-player/dialogs/SettingsDialog.qml" line="490"/>
         <source>This shortcut key conflicts with [%1], click Replace to make this shortcut key take effect immediately</source>
-        <translation>Αυτό το συντομεύσιμο κλειδί συγκρούεται με [%1], κάντε κλικ στο Replace για να ενεργοποιήσετε αυτό το συντομεύσιμο κλειδί άμεσα</translation>
+        <translation type="vanished">Αυτό το συντομεύσιμο κλειδί συγκρούεται με [%1], κάντε κλικ στο Replace για να ενεργοποιήσετε αυτό το συντομεύσιμο κλειδί άμεσα</translation>
     </message>
 </context>
 <context>
@@ -1170,217 +985,178 @@
 <context>
     <name>Shortcuts</name>
     <message>
-        <location filename="../src/music-player/allItems/Shortcuts.qml" line="51"/>
         <source>New playlist</source>
-        <translation>Νέα λίστα αναπαραγωγής</translation>
+        <translation type="vanished">Νέα λίστα αναπαραγωγής</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/Shortcuts.qml" line="120"/>
         <source>My Favorites</source>
-        <translation>Αγαπημένα μου</translation>
+        <translation type="vanished">Αγαπημένα μου</translation>
     </message>
 </context>
 <context>
     <name>SidebarMenu</name>
     <message>
-        <location filename="../src/music-player/musicmousemenu/SidebarMenu.qml" line="22"/>
         <source>Play</source>
-        <translation>Αναπαραγωγή</translation>
+        <translation type="vanished">Αναπαραγωγή</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/SidebarMenu.qml" line="29"/>
         <source>Add songs</source>
-        <translation>Προσθήκη τραγουδιών</translation>
+        <translation type="vanished">Προσθήκη τραγουδιών</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/SidebarMenu.qml" line="38"/>
         <source>Rename</source>
-        <translation>Μετονομασία</translation>
+        <translation type="vanished">Μετονομασία</translation>
     </message>
     <message>
-        <location filename="../src/music-player/musicmousemenu/SidebarMenu.qml" line="52"/>
         <source>Delete</source>
-        <translation>Διαγραφή</translation>
+        <translation type="vanished">Διαγραφή</translation>
     </message>
 </context>
 <context>
     <name>SortMenu</name>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="29"/>
         <source>CD playlist</source>
-        <translation>Πακέτο προβολής CD</translation>
+        <translation type="vanished">Πακέτο προβολής CD</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="33"/>
         <source>Custom</source>
-        <translation>Προσαρμογή</translation>
+        <translation type="vanished">Προσαρμογή</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="34"/>
         <source>Date added</source>
-        <translation>Ημερομηνία προσθήκης</translation>
+        <translation type="vanished">Ημερομηνία προσθήκης</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="37"/>
         <source>Album</source>
-        <translation>Αλμπουμ</translation>
+        <translation type="vanished">Αλμπουμ</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="36"/>
         <source>Artist</source>
-        <translation>Καλλιτέχνης</translation>
+        <translation type="vanished">Καλλιτέχνης</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SortMenu.qml" line="35"/>
         <source>Title</source>
-        <translation>Τίτλος</translation>
+        <translation type="vanished">Τίτλος</translation>
     </message>
 </context>
 <context>
     <name>SublistTitleButton</name>
     <message>
-        <location filename="../src/music-player/allItems/SublistTitleButton.qml" line="54"/>
         <source>1 song</source>
-        <translation>1 τραγούδι</translation>
+        <translation type="vanished">1 τραγούδι</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SublistTitleButton.qml" line="54"/>
         <source>%1 songs</source>
-        <translation>%1 τραγούδια</translation>
+        <translation type="vanished">%1 τραγούδια</translation>
     </message>
     <message>
-        <location filename="../src/music-player/allItems/SublistTitleButton.qml" line="64"/>
         <source>Play All</source>
-        <translation>Αναπαραγωγή Όλων</translation>
+        <translation type="vanished">Αναπαραγωγή Όλων</translation>
     </message>
 </context>
 <context>
     <name>ToolButtonItem</name>
     <message>
-        <location filename="../src/music-player/allItems/ToolButtonItem.qml" line="59"/>
         <source>Play All</source>
-        <translation>Αναπαραγωγή Όλων</translation>
+        <translation type="vanished">Αναπαραγωγή Όλων</translation>
     </message>
 </context>
 <context>
     <name>Toolbar</name>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="43"/>
         <source>Sequential play</source>
-        <translation>Διαδοχική παραγωγή</translation>
+        <translation type="vanished">Διαδοχική παραγωγή</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="43"/>
         <source>List loop</source>
-        <translation>Επανάληπση λίστας</translation>
+        <translation type="vanished">Επανάληπση λίστας</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="43"/>
         <source>Single loop</source>
-        <translation>Επανάληπση μίας</translation>
+        <translation type="vanished">Επανάληπση μίας</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="43"/>
         <source>Shuffle</source>
-        <translation>Ανακάτεψε</translation>
+        <translation type="vanished">Ανακάτεψε</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="207"/>
         <source>Unfavorite</source>
-        <translation>Αποσυγκρότηση αγαπημένου</translation>
+        <translation type="vanished">Αποσυγκρότηση αγαπημένου</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="207"/>
         <source>Favorite</source>
-        <translation>Αγαπημένα</translation>
+        <translation type="vanished">Αγαπημένα</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="220"/>
         <source>My Favorites</source>
-        <translation>Αγαπημένα μου</translation>
+        <translation type="vanished">Αγαπημένα μου</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="238"/>
         <source>Previous</source>
-        <translation>Προηγούμενο</translation>
+        <translation type="vanished">Προηγούμενο</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="259"/>
         <source>Play/Pause</source>
-        <translation>Αναπαραγωγή/Παύση</translation>
+        <translation type="vanished">Αναπαραγωγή/Παύση</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="280"/>
         <source>Next</source>
-        <translation>Επόμενο</translation>
+        <translation type="vanished">Επόμενο</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="389"/>
         <source>Lyrics</source>
-        <translation>Στίχοι</translation>
+        <translation type="vanished">Στίχοι</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/Toolbar.qml" line="438"/>
         <source>Play Queue</source>
-        <translation>Σειρά Παραγωγής</translation>
+        <translation type="vanished">Σειρά Παραγωγής</translation>
     </message>
 </context>
 <context>
     <name>WindowTitlebar</name>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="56"/>
         <source>Add playlist</source>
-        <translation>Προσθήκη πακέτου προβολής</translation>
+        <translation type="vanished">Προσθήκη πακέτου προβολής</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="58"/>
         <source>New playlist</source>
-        <translation>Νέα λίστα αναπαραγωγής</translation>
+        <translation type="vanished">Νέα λίστα αναπαραγωγής</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="63"/>
         <source>Add music</source>
-        <translation>Πρόσθεσε μουσική</translation>
+        <translation type="vanished">Πρόσθεσε μουσική</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="71"/>
         <source>Equalizer</source>
-        <translation>Ισοσταθμιστής</translation>
+        <translation type="vanished">Ισοσταθμιστής</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="82"/>
         <source>Settings</source>
-        <translation>Ρυθμίσεις</translation>
+        <translation type="vanished">Ρυθμίσεις</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="96"/>
         <source>Music</source>
-        <translation>Μουσική</translation>
+        <translation type="vanished">Μουσική</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="98"/>
         <source>Music is a local music player with beautiful design and simple functions.</source>
-        <translation>Η μουσική είναι ένας τοπικός παραγωγέας μουσικής με όμορφο σχεδιασμό και απλές λειτουργίες.</translation>
+        <translation type="vanished">Η μουσική είναι ένας τοπικός παραγωγέας μουσικής με όμορφο σχεδιασμό και απλές λειτουργίες.</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="99"/>
         <source>Version:</source>
-        <translation>Έκδοση:</translation>
+        <translation type="vanished">Έκδοση:</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="213"/>
         <source>Previous page</source>
-        <translation>Προηγούμενη σελίδα</translation>
+        <translation type="vanished">Προηγούμενη σελίδα</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="229"/>
         <source>Next page</source>
-        <translation>Επόμενη σελίδα</translation>
+        <translation type="vanished">Επόμενη σελίδα</translation>
     </message>
     <message>
-        <location filename="../src/music-player/mainwindow/WindowTitlebar.qml" line="239"/>
         <source>Search</source>
-        <translation>Αναζήτηση</translation>
+        <translation type="vanished">Αναζήτηση</translation>
     </message>
 </context>
 </TS>
